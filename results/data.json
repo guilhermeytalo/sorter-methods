@@ -1,0 +1,3609 @@
+{
+  "metadata": {
+    "trials": 30,
+    "maxSize": 1000,
+    "stepSize": 10
+  },
+  "results": [
+    {
+      "size": 1,
+      "algorithm": "Bubble Sort",
+      "comparisons": 0.00,
+      "swaps": 0.00
+    },
+    {
+      "size": 1,
+      "algorithm": "Insertion Sort",
+      "comparisons": 0.00,
+      "swaps": 0.00
+    },
+    {
+      "size": 1,
+      "algorithm": "Heap Sort",
+      "comparisons": 0.00,
+      "swaps": 0.00
+    },
+    {
+      "size": 1,
+      "algorithm": "Merge Sort",
+      "comparisons": 0.00,
+      "swaps": 0.00
+    },
+    {
+      "size": 1,
+      "algorithm": "Quick Sort",
+      "comparisons": 0.00,
+      "swaps": 0.00
+    },
+    {
+      "size": 1,
+      "algorithm": "Radix Sort",
+      "comparisons": 3.93,
+      "swaps": 7.87
+    },
+    {
+      "size": 11,
+      "algorithm": "Bubble Sort",
+      "comparisons": 55.00,
+      "swaps": 29.63
+    },
+    {
+      "size": 11,
+      "algorithm": "Insertion Sort",
+      "comparisons": 37.33,
+      "swaps": 29.63
+    },
+    {
+      "size": 11,
+      "algorithm": "Heap Sort",
+      "comparisons": 44.63,
+      "swaps": 29.63
+    },
+    {
+      "size": 11,
+      "algorithm": "Merge Sort",
+      "comparisons": 25.73,
+      "swaps": 78.00
+    },
+    {
+      "size": 11,
+      "algorithm": "Quick Sort",
+      "comparisons": 28.20,
+      "swaps": 19.50
+    },
+    {
+      "size": 11,
+      "algorithm": "Radix Sort",
+      "comparisons": 44.00,
+      "swaps": 88.00
+    },
+    {
+      "size": 21,
+      "algorithm": "Bubble Sort",
+      "comparisons": 210.00,
+      "swaps": 104.67
+    },
+    {
+      "size": 21,
+      "algorithm": "Insertion Sort",
+      "comparisons": 121.80,
+      "swaps": 104.67
+    },
+    {
+      "size": 21,
+      "algorithm": "Heap Sort",
+      "comparisons": 123.57,
+      "swaps": 77.07
+    },
+    {
+      "size": 21,
+      "algorithm": "Merge Sort",
+      "comparisons": 67.33,
+      "swaps": 188.00
+    },
+    {
+      "size": 21,
+      "algorithm": "Quick Sort",
+      "comparisons": 76.53,
+      "swaps": 52.80
+    },
+    {
+      "size": 21,
+      "algorithm": "Radix Sort",
+      "comparisons": 84.00,
+      "swaps": 168.00
+    },
+    {
+      "size": 31,
+      "algorithm": "Bubble Sort",
+      "comparisons": 465.00,
+      "swaps": 231.00
+    },
+    {
+      "size": 31,
+      "algorithm": "Insertion Sort",
+      "comparisons": 257.80,
+      "swaps": 231.00
+    },
+    {
+      "size": 31,
+      "algorithm": "Heap Sort",
+      "comparisons": 212.53,
+      "swaps": 128.03
+    },
+    {
+      "size": 31,
+      "algorithm": "Merge Sort",
+      "comparisons": 115.73,
+      "swaps": 308.00
+    },
+    {
+      "size": 31,
+      "algorithm": "Quick Sort",
+      "comparisons": 135.30,
+      "swaps": 87.53
+    },
+    {
+      "size": 31,
+      "algorithm": "Radix Sort",
+      "comparisons": 124.00,
+      "swaps": 248.00
+    },
+    {
+      "size": 41,
+      "algorithm": "Bubble Sort",
+      "comparisons": 820.00,
+      "swaps": 409.67
+    },
+    {
+      "size": 41,
+      "algorithm": "Insertion Sort",
+      "comparisons": 446.07,
+      "swaps": 409.67
+    },
+    {
+      "size": 41,
+      "algorithm": "Heap Sort",
+      "comparisons": 317.27,
+      "swaps": 186.67
+    },
+    {
+      "size": 41,
+      "algorithm": "Merge Sort",
+      "comparisons": 169.00,
+      "swaps": 446.00
+    },
+    {
+      "size": 41,
+      "algorithm": "Quick Sort",
+      "comparisons": 196.73,
+      "swaps": 121.43
+    },
+    {
+      "size": 41,
+      "algorithm": "Radix Sort",
+      "comparisons": 164.00,
+      "swaps": 328.00
+    },
+    {
+      "size": 51,
+      "algorithm": "Bubble Sort",
+      "comparisons": 1275.00,
+      "swaps": 637.03
+    },
+    {
+      "size": 51,
+      "algorithm": "Insertion Sort",
+      "comparisons": 683.20,
+      "swaps": 637.03
+    },
+    {
+      "size": 51,
+      "algorithm": "Heap Sort",
+      "comparisons": 427.07,
+      "swaps": 248.10
+    },
+    {
+      "size": 51,
+      "algorithm": "Merge Sort",
+      "comparisons": 227.97,
+      "swaps": 586.00
+    },
+    {
+      "size": 51,
+      "algorithm": "Quick Sort",
+      "comparisons": 257.87,
+      "swaps": 159.90
+    },
+    {
+      "size": 51,
+      "algorithm": "Radix Sort",
+      "comparisons": 204.00,
+      "swaps": 408.00
+    },
+    {
+      "size": 61,
+      "algorithm": "Bubble Sort",
+      "comparisons": 1830.00,
+      "swaps": 913.07
+    },
+    {
+      "size": 61,
+      "algorithm": "Insertion Sort",
+      "comparisons": 968.97,
+      "swaps": 913.07
+    },
+    {
+      "size": 61,
+      "algorithm": "Heap Sort",
+      "comparisons": 537.33,
+      "swaps": 310.17
+    },
+    {
+      "size": 61,
+      "algorithm": "Merge Sort",
+      "comparisons": 285.93,
+      "swaps": 726.00
+    },
+    {
+      "size": 61,
+      "algorithm": "Quick Sort",
+      "comparisons": 343.83,
+      "swaps": 214.13
+    },
+    {
+      "size": 61,
+      "algorithm": "Radix Sort",
+      "comparisons": 244.00,
+      "swaps": 488.00
+    },
+    {
+      "size": 71,
+      "algorithm": "Bubble Sort",
+      "comparisons": 2485.00,
+      "swaps": 1259.90
+    },
+    {
+      "size": 71,
+      "algorithm": "Insertion Sort",
+      "comparisons": 1325.70,
+      "swaps": 1259.90
+    },
+    {
+      "size": 71,
+      "algorithm": "Heap Sort",
+      "comparisons": 659.40,
+      "swaps": 376.90
+    },
+    {
+      "size": 71,
+      "algorithm": "Merge Sort",
+      "comparisons": 349.83,
+      "swaps": 880.00
+    },
+    {
+      "size": 71,
+      "algorithm": "Quick Sort",
+      "comparisons": 416.50,
+      "swaps": 246.07
+    },
+    {
+      "size": 71,
+      "algorithm": "Radix Sort",
+      "comparisons": 284.00,
+      "swaps": 568.00
+    },
+    {
+      "size": 81,
+      "algorithm": "Bubble Sort",
+      "comparisons": 3240.00,
+      "swaps": 1644.77
+    },
+    {
+      "size": 81,
+      "algorithm": "Insertion Sort",
+      "comparisons": 1720.37,
+      "swaps": 1644.77
+    },
+    {
+      "size": 81,
+      "algorithm": "Heap Sort",
+      "comparisons": 783.20,
+      "swaps": 446.03
+    },
+    {
+      "size": 81,
+      "algorithm": "Merge Sort",
+      "comparisons": 413.00,
+      "swaps": 1040.00
+    },
+    {
+      "size": 81,
+      "algorithm": "Quick Sort",
+      "comparisons": 486.50,
+      "swaps": 288.63
+    },
+    {
+      "size": 81,
+      "algorithm": "Radix Sort",
+      "comparisons": 324.00,
+      "swaps": 648.00
+    },
+    {
+      "size": 91,
+      "algorithm": "Bubble Sort",
+      "comparisons": 4095.00,
+      "swaps": 2061.57
+    },
+    {
+      "size": 91,
+      "algorithm": "Insertion Sort",
+      "comparisons": 2147.10,
+      "swaps": 2061.57
+    },
+    {
+      "size": 91,
+      "algorithm": "Heap Sort",
+      "comparisons": 911.20,
+      "swaps": 517.23
+    },
+    {
+      "size": 91,
+      "algorithm": "Merge Sort",
+      "comparisons": 480.80,
+      "swaps": 1200.00
+    },
+    {
+      "size": 91,
+      "algorithm": "Quick Sort",
+      "comparisons": 579.53,
+      "swaps": 355.23
+    },
+    {
+      "size": 91,
+      "algorithm": "Radix Sort",
+      "comparisons": 364.00,
+      "swaps": 728.00
+    },
+    {
+      "size": 101,
+      "algorithm": "Bubble Sort",
+      "comparisons": 5050.00,
+      "swaps": 2508.73
+    },
+    {
+      "size": 101,
+      "algorithm": "Insertion Sort",
+      "comparisons": 2604.27,
+      "swaps": 2508.73
+    },
+    {
+      "size": 101,
+      "algorithm": "Heap Sort",
+      "comparisons": 1038.50,
+      "swaps": 586.10
+    },
+    {
+      "size": 101,
+      "algorithm": "Merge Sort",
+      "comparisons": 547.37,
+      "swaps": 1360.00
+    },
+    {
+      "size": 101,
+      "algorithm": "Quick Sort",
+      "comparisons": 652.27,
+      "swaps": 402.07
+    },
+    {
+      "size": 101,
+      "algorithm": "Radix Sort",
+      "comparisons": 404.00,
+      "swaps": 808.00
+    },
+    {
+      "size": 111,
+      "algorithm": "Bubble Sort",
+      "comparisons": 6105.00,
+      "swaps": 3040.27
+    },
+    {
+      "size": 111,
+      "algorithm": "Insertion Sort",
+      "comparisons": 3145.63,
+      "swaps": 3040.27
+    },
+    {
+      "size": 111,
+      "algorithm": "Heap Sort",
+      "comparisons": 1171.07,
+      "swaps": 659.80
+    },
+    {
+      "size": 111,
+      "algorithm": "Merge Sort",
+      "comparisons": 616.33,
+      "swaps": 1520.00
+    },
+    {
+      "size": 111,
+      "algorithm": "Quick Sort",
+      "comparisons": 740.97,
+      "swaps": 445.53
+    },
+    {
+      "size": 111,
+      "algorithm": "Radix Sort",
+      "comparisons": 444.00,
+      "swaps": 888.00
+    },
+    {
+      "size": 121,
+      "algorithm": "Bubble Sort",
+      "comparisons": 7260.00,
+      "swaps": 3615.77
+    },
+    {
+      "size": 121,
+      "algorithm": "Insertion Sort",
+      "comparisons": 3731.03,
+      "swaps": 3615.77
+    },
+    {
+      "size": 121,
+      "algorithm": "Heap Sort",
+      "comparisons": 1303.97,
+      "swaps": 732.70
+    },
+    {
+      "size": 121,
+      "algorithm": "Merge Sort",
+      "comparisons": 685.03,
+      "swaps": 1680.00
+    },
+    {
+      "size": 121,
+      "algorithm": "Quick Sort",
+      "comparisons": 808.03,
+      "swaps": 497.43
+    },
+    {
+      "size": 121,
+      "algorithm": "Radix Sort",
+      "comparisons": 484.00,
+      "swaps": 968.00
+    },
+    {
+      "size": 131,
+      "algorithm": "Bubble Sort",
+      "comparisons": 8515.00,
+      "swaps": 4238.70
+    },
+    {
+      "size": 131,
+      "algorithm": "Insertion Sort",
+      "comparisons": 4363.87,
+      "swaps": 4238.70
+    },
+    {
+      "size": 131,
+      "algorithm": "Heap Sort",
+      "comparisons": 1439.83,
+      "swaps": 808.20
+    },
+    {
+      "size": 131,
+      "algorithm": "Merge Sort",
+      "comparisons": 756.70,
+      "swaps": 1846.00
+    },
+    {
+      "size": 131,
+      "algorithm": "Quick Sort",
+      "comparisons": 915.73,
+      "swaps": 538.30
+    },
+    {
+      "size": 131,
+      "algorithm": "Radix Sort",
+      "comparisons": 524.00,
+      "swaps": 1048.00
+    },
+    {
+      "size": 141,
+      "algorithm": "Bubble Sort",
+      "comparisons": 9870.00,
+      "swaps": 4893.00
+    },
+    {
+      "size": 141,
+      "algorithm": "Insertion Sort",
+      "comparisons": 5028.10,
+      "swaps": 4893.00
+    },
+    {
+      "size": 141,
+      "algorithm": "Heap Sort",
+      "comparisons": 1584.80,
+      "swaps": 888.13
+    },
+    {
+      "size": 141,
+      "algorithm": "Merge Sort",
+      "comparisons": 833.20,
+      "swaps": 2026.00
+    },
+    {
+      "size": 141,
+      "algorithm": "Quick Sort",
+      "comparisons": 1006.40,
+      "swaps": 610.33
+    },
+    {
+      "size": 141,
+      "algorithm": "Radix Sort",
+      "comparisons": 564.00,
+      "swaps": 1128.00
+    },
+    {
+      "size": 151,
+      "algorithm": "Bubble Sort",
+      "comparisons": 11325.00,
+      "swaps": 5605.20
+    },
+    {
+      "size": 151,
+      "algorithm": "Insertion Sort",
+      "comparisons": 5750.13,
+      "swaps": 5605.20
+    },
+    {
+      "size": 151,
+      "algorithm": "Heap Sort",
+      "comparisons": 1727.67,
+      "swaps": 966.37
+    },
+    {
+      "size": 151,
+      "algorithm": "Merge Sort",
+      "comparisons": 907.90,
+      "swaps": 2206.00
+    },
+    {
+      "size": 151,
+      "algorithm": "Quick Sort",
+      "comparisons": 1133.37,
+      "swaps": 660.60
+    },
+    {
+      "size": 151,
+      "algorithm": "Radix Sort",
+      "comparisons": 604.00,
+      "swaps": 1208.00
+    },
+    {
+      "size": 161,
+      "algorithm": "Bubble Sort",
+      "comparisons": 12880.00,
+      "swaps": 6385.47
+    },
+    {
+      "size": 161,
+      "algorithm": "Insertion Sort",
+      "comparisons": 6540.33,
+      "swaps": 6385.47
+    },
+    {
+      "size": 161,
+      "algorithm": "Heap Sort",
+      "comparisons": 1877.60,
+      "swaps": 1048.10
+    },
+    {
+      "size": 161,
+      "algorithm": "Merge Sort",
+      "comparisons": 981.90,
+      "swaps": 2386.00
+    },
+    {
+      "size": 161,
+      "algorithm": "Quick Sort",
+      "comparisons": 1200.93,
+      "swaps": 695.53
+    },
+    {
+      "size": 161,
+      "algorithm": "Radix Sort",
+      "comparisons": 644.00,
+      "swaps": 1288.00
+    },
+    {
+      "size": 171,
+      "algorithm": "Bubble Sort",
+      "comparisons": 14535.00,
+      "swaps": 7214.87
+    },
+    {
+      "size": 171,
+      "algorithm": "Insertion Sort",
+      "comparisons": 7379.70,
+      "swaps": 7214.87
+    },
+    {
+      "size": 171,
+      "algorithm": "Heap Sort",
+      "comparisons": 2023.47,
+      "swaps": 1127.27
+    },
+    {
+      "size": 171,
+      "algorithm": "Merge Sort",
+      "comparisons": 1058.67,
+      "swaps": 2566.00
+    },
+    {
+      "size": 171,
+      "algorithm": "Quick Sort",
+      "comparisons": 1261.70,
+      "swaps": 739.00
+    },
+    {
+      "size": 171,
+      "algorithm": "Radix Sort",
+      "comparisons": 684.00,
+      "swaps": 1368.00
+    },
+    {
+      "size": 181,
+      "algorithm": "Bubble Sort",
+      "comparisons": 16290.00,
+      "swaps": 8039.83
+    },
+    {
+      "size": 181,
+      "algorithm": "Insertion Sort",
+      "comparisons": 8214.67,
+      "swaps": 8039.83
+    },
+    {
+      "size": 181,
+      "algorithm": "Heap Sort",
+      "comparisons": 2168.77,
+      "swaps": 1206.63
+    },
+    {
+      "size": 181,
+      "algorithm": "Merge Sort",
+      "comparisons": 1134.17,
+      "swaps": 2746.00
+    },
+    {
+      "size": 181,
+      "algorithm": "Quick Sort",
+      "comparisons": 1390.20,
+      "swaps": 794.13
+    },
+    {
+      "size": 181,
+      "algorithm": "Radix Sort",
+      "comparisons": 724.00,
+      "swaps": 1448.00
+    },
+    {
+      "size": 191,
+      "algorithm": "Bubble Sort",
+      "comparisons": 18145.00,
+      "swaps": 9012.03
+    },
+    {
+      "size": 191,
+      "algorithm": "Insertion Sort",
+      "comparisons": 9196.73,
+      "swaps": 9012.03
+    },
+    {
+      "size": 191,
+      "algorithm": "Heap Sort",
+      "comparisons": 2317.53,
+      "swaps": 1286.53
+    },
+    {
+      "size": 191,
+      "algorithm": "Merge Sort",
+      "comparisons": 1211.07,
+      "swaps": 2926.00
+    },
+    {
+      "size": 191,
+      "algorithm": "Quick Sort",
+      "comparisons": 1478.27,
+      "swaps": 863.80
+    },
+    {
+      "size": 191,
+      "algorithm": "Radix Sort",
+      "comparisons": 764.00,
+      "swaps": 1528.00
+    },
+    {
+      "size": 201,
+      "algorithm": "Bubble Sort",
+      "comparisons": 20100.00,
+      "swaps": 9989.53
+    },
+    {
+      "size": 201,
+      "algorithm": "Insertion Sort",
+      "comparisons": 10184.20,
+      "swaps": 9989.53
+    },
+    {
+      "size": 201,
+      "algorithm": "Heap Sort",
+      "comparisons": 2471.33,
+      "swaps": 1371.40
+    },
+    {
+      "size": 201,
+      "algorithm": "Merge Sort",
+      "comparisons": 1286.53,
+      "swaps": 3106.00
+    },
+    {
+      "size": 201,
+      "algorithm": "Quick Sort",
+      "comparisons": 1554.10,
+      "swaps": 917.20
+    },
+    {
+      "size": 201,
+      "algorithm": "Radix Sort",
+      "comparisons": 804.00,
+      "swaps": 1608.00
+    },
+    {
+      "size": 211,
+      "algorithm": "Bubble Sort",
+      "comparisons": 22155.00,
+      "swaps": 11046.30
+    },
+    {
+      "size": 211,
+      "algorithm": "Insertion Sort",
+      "comparisons": 11250.87,
+      "swaps": 11046.30
+    },
+    {
+      "size": 211,
+      "algorithm": "Heap Sort",
+      "comparisons": 2621.60,
+      "swaps": 1450.97
+    },
+    {
+      "size": 211,
+      "algorithm": "Merge Sort",
+      "comparisons": 1367.77,
+      "swaps": 3286.00
+    },
+    {
+      "size": 211,
+      "algorithm": "Quick Sort",
+      "comparisons": 1651.27,
+      "swaps": 963.67
+    },
+    {
+      "size": 211,
+      "algorithm": "Radix Sort",
+      "comparisons": 844.00,
+      "swaps": 1688.00
+    },
+    {
+      "size": 221,
+      "algorithm": "Bubble Sort",
+      "comparisons": 24310.00,
+      "swaps": 12177.03
+    },
+    {
+      "size": 221,
+      "algorithm": "Insertion Sort",
+      "comparisons": 12391.60,
+      "swaps": 12177.03
+    },
+    {
+      "size": 221,
+      "algorithm": "Heap Sort",
+      "comparisons": 2773.13,
+      "swaps": 1533.83
+    },
+    {
+      "size": 221,
+      "algorithm": "Merge Sort",
+      "comparisons": 1446.63,
+      "swaps": 3466.00
+    },
+    {
+      "size": 221,
+      "algorithm": "Quick Sort",
+      "comparisons": 1753.83,
+      "swaps": 1027.60
+    },
+    {
+      "size": 221,
+      "algorithm": "Radix Sort",
+      "comparisons": 884.00,
+      "swaps": 1768.00
+    },
+    {
+      "size": 231,
+      "algorithm": "Bubble Sort",
+      "comparisons": 26565.00,
+      "swaps": 13220.20
+    },
+    {
+      "size": 231,
+      "algorithm": "Insertion Sort",
+      "comparisons": 13444.73,
+      "swaps": 13220.20
+    },
+    {
+      "size": 231,
+      "algorithm": "Heap Sort",
+      "comparisons": 2924.17,
+      "swaps": 1617.20
+    },
+    {
+      "size": 231,
+      "algorithm": "Merge Sort",
+      "comparisons": 1526.40,
+      "swaps": 3646.00
+    },
+    {
+      "size": 231,
+      "algorithm": "Quick Sort",
+      "comparisons": 1900.40,
+      "swaps": 1100.67
+    },
+    {
+      "size": 231,
+      "algorithm": "Radix Sort",
+      "comparisons": 924.00,
+      "swaps": 1848.00
+    },
+    {
+      "size": 241,
+      "algorithm": "Bubble Sort",
+      "comparisons": 28920.00,
+      "swaps": 14392.60
+    },
+    {
+      "size": 241,
+      "algorithm": "Insertion Sort",
+      "comparisons": 14627.10,
+      "swaps": 14392.60
+    },
+    {
+      "size": 241,
+      "algorithm": "Heap Sort",
+      "comparisons": 3078.47,
+      "swaps": 1700.50
+    },
+    {
+      "size": 241,
+      "algorithm": "Merge Sort",
+      "comparisons": 1603.50,
+      "swaps": 3826.00
+    },
+    {
+      "size": 241,
+      "algorithm": "Quick Sort",
+      "comparisons": 1941.50,
+      "swaps": 1158.47
+    },
+    {
+      "size": 241,
+      "algorithm": "Radix Sort",
+      "comparisons": 964.00,
+      "swaps": 1928.00
+    },
+    {
+      "size": 251,
+      "algorithm": "Bubble Sort",
+      "comparisons": 31375.00,
+      "swaps": 15605.33
+    },
+    {
+      "size": 251,
+      "algorithm": "Insertion Sort",
+      "comparisons": 15849.83,
+      "swaps": 15605.33
+    },
+    {
+      "size": 251,
+      "algorithm": "Heap Sort",
+      "comparisons": 3229.07,
+      "swaps": 1782.83
+    },
+    {
+      "size": 251,
+      "algorithm": "Merge Sort",
+      "comparisons": 1685.50,
+      "swaps": 4006.00
+    },
+    {
+      "size": 251,
+      "algorithm": "Quick Sort",
+      "comparisons": 2061.30,
+      "swaps": 1202.07
+    },
+    {
+      "size": 251,
+      "algorithm": "Radix Sort",
+      "comparisons": 1004.00,
+      "swaps": 2008.00
+    },
+    {
+      "size": 261,
+      "algorithm": "Bubble Sort",
+      "comparisons": 33930.00,
+      "swaps": 16852.60
+    },
+    {
+      "size": 261,
+      "algorithm": "Insertion Sort",
+      "comparisons": 17107.07,
+      "swaps": 16852.60
+    },
+    {
+      "size": 261,
+      "algorithm": "Heap Sort",
+      "comparisons": 3389.73,
+      "swaps": 1867.77
+    },
+    {
+      "size": 261,
+      "algorithm": "Merge Sort",
+      "comparisons": 1764.93,
+      "swaps": 4196.00
+    },
+    {
+      "size": 261,
+      "algorithm": "Quick Sort",
+      "comparisons": 2159.23,
+      "swaps": 1272.57
+    },
+    {
+      "size": 261,
+      "algorithm": "Radix Sort",
+      "comparisons": 1044.00,
+      "swaps": 2088.00
+    },
+    {
+      "size": 271,
+      "algorithm": "Bubble Sort",
+      "comparisons": 36585.00,
+      "swaps": 18211.77
+    },
+    {
+      "size": 271,
+      "algorithm": "Insertion Sort",
+      "comparisons": 18476.23,
+      "swaps": 18211.77
+    },
+    {
+      "size": 271,
+      "algorithm": "Heap Sort",
+      "comparisons": 3550.80,
+      "swaps": 1955.33
+    },
+    {
+      "size": 271,
+      "algorithm": "Merge Sort",
+      "comparisons": 1850.53,
+      "swaps": 4396.00
+    },
+    {
+      "size": 271,
+      "algorithm": "Quick Sort",
+      "comparisons": 2241.00,
+      "swaps": 1322.70
+    },
+    {
+      "size": 271,
+      "algorithm": "Radix Sort",
+      "comparisons": 1084.00,
+      "swaps": 2168.00
+    },
+    {
+      "size": 281,
+      "algorithm": "Bubble Sort",
+      "comparisons": 39340.00,
+      "swaps": 19619.20
+    },
+    {
+      "size": 281,
+      "algorithm": "Insertion Sort",
+      "comparisons": 19893.63,
+      "swaps": 19619.20
+    },
+    {
+      "size": 281,
+      "algorithm": "Heap Sort",
+      "comparisons": 3712.90,
+      "swaps": 2043.40
+    },
+    {
+      "size": 281,
+      "algorithm": "Merge Sort",
+      "comparisons": 1937.70,
+      "swaps": 4596.00
+    },
+    {
+      "size": 281,
+      "algorithm": "Quick Sort",
+      "comparisons": 2358.83,
+      "swaps": 1321.70
+    },
+    {
+      "size": 281,
+      "algorithm": "Radix Sort",
+      "comparisons": 1124.00,
+      "swaps": 2248.00
+    },
+    {
+      "size": 291,
+      "algorithm": "Bubble Sort",
+      "comparisons": 42195.00,
+      "swaps": 21054.30
+    },
+    {
+      "size": 291,
+      "algorithm": "Insertion Sort",
+      "comparisons": 21338.73,
+      "swaps": 21054.30
+    },
+    {
+      "size": 291,
+      "algorithm": "Heap Sort",
+      "comparisons": 3877.23,
+      "swaps": 2133.30
+    },
+    {
+      "size": 291,
+      "algorithm": "Merge Sort",
+      "comparisons": 2019.53,
+      "swaps": 4796.00
+    },
+    {
+      "size": 291,
+      "algorithm": "Quick Sort",
+      "comparisons": 2474.63,
+      "swaps": 1419.20
+    },
+    {
+      "size": 291,
+      "algorithm": "Radix Sort",
+      "comparisons": 1164.00,
+      "swaps": 2328.00
+    },
+    {
+      "size": 301,
+      "algorithm": "Bubble Sort",
+      "comparisons": 45150.00,
+      "swaps": 22614.90
+    },
+    {
+      "size": 301,
+      "algorithm": "Insertion Sort",
+      "comparisons": 22909.27,
+      "swaps": 22614.90
+    },
+    {
+      "size": 301,
+      "algorithm": "Heap Sort",
+      "comparisons": 4039.40,
+      "swaps": 2217.53
+    },
+    {
+      "size": 301,
+      "algorithm": "Merge Sort",
+      "comparisons": 2107.33,
+      "swaps": 4996.00
+    },
+    {
+      "size": 301,
+      "algorithm": "Quick Sort",
+      "comparisons": 2595.43,
+      "swaps": 1525.83
+    },
+    {
+      "size": 301,
+      "algorithm": "Radix Sort",
+      "comparisons": 1204.00,
+      "swaps": 2408.00
+    },
+    {
+      "size": 311,
+      "algorithm": "Bubble Sort",
+      "comparisons": 48205.00,
+      "swaps": 24149.40
+    },
+    {
+      "size": 311,
+      "algorithm": "Insertion Sort",
+      "comparisons": 24453.77,
+      "swaps": 24149.40
+    },
+    {
+      "size": 311,
+      "algorithm": "Heap Sort",
+      "comparisons": 4206.10,
+      "swaps": 2305.00
+    },
+    {
+      "size": 311,
+      "algorithm": "Merge Sort",
+      "comparisons": 2188.57,
+      "swaps": 5196.00
+    },
+    {
+      "size": 311,
+      "algorithm": "Quick Sort",
+      "comparisons": 2656.00,
+      "swaps": 1547.57
+    },
+    {
+      "size": 311,
+      "algorithm": "Radix Sort",
+      "comparisons": 1244.00,
+      "swaps": 2488.00
+    },
+    {
+      "size": 321,
+      "algorithm": "Bubble Sort",
+      "comparisons": 51360.00,
+      "swaps": 25773.63
+    },
+    {
+      "size": 321,
+      "algorithm": "Insertion Sort",
+      "comparisons": 26087.97,
+      "swaps": 25773.63
+    },
+    {
+      "size": 321,
+      "algorithm": "Heap Sort",
+      "comparisons": 4372.60,
+      "swaps": 2398.83
+    },
+    {
+      "size": 321,
+      "algorithm": "Merge Sort",
+      "comparisons": 2277.07,
+      "swaps": 5396.00
+    },
+    {
+      "size": 321,
+      "algorithm": "Quick Sort",
+      "comparisons": 2763.43,
+      "swaps": 1565.23
+    },
+    {
+      "size": 321,
+      "algorithm": "Radix Sort",
+      "comparisons": 1284.00,
+      "swaps": 2568.00
+    },
+    {
+      "size": 331,
+      "algorithm": "Bubble Sort",
+      "comparisons": 54615.00,
+      "swaps": 27362.73
+    },
+    {
+      "size": 331,
+      "algorithm": "Insertion Sort",
+      "comparisons": 27687.03,
+      "swaps": 27362.73
+    },
+    {
+      "size": 331,
+      "algorithm": "Heap Sort",
+      "comparisons": 4543.63,
+      "swaps": 2491.43
+    },
+    {
+      "size": 331,
+      "algorithm": "Merge Sort",
+      "comparisons": 2359.27,
+      "swaps": 5596.00
+    },
+    {
+      "size": 331,
+      "algorithm": "Quick Sort",
+      "comparisons": 2925.50,
+      "swaps": 1652.90
+    },
+    {
+      "size": 331,
+      "algorithm": "Radix Sort",
+      "comparisons": 1324.00,
+      "swaps": 2648.00
+    },
+    {
+      "size": 341,
+      "algorithm": "Bubble Sort",
+      "comparisons": 57970.00,
+      "swaps": 28996.33
+    },
+    {
+      "size": 341,
+      "algorithm": "Insertion Sort",
+      "comparisons": 29330.60,
+      "swaps": 28996.33
+    },
+    {
+      "size": 341,
+      "algorithm": "Heap Sort",
+      "comparisons": 4708.03,
+      "swaps": 2579.73
+    },
+    {
+      "size": 341,
+      "algorithm": "Merge Sort",
+      "comparisons": 2448.10,
+      "swaps": 5796.00
+    },
+    {
+      "size": 341,
+      "algorithm": "Quick Sort",
+      "comparisons": 2944.17,
+      "swaps": 1734.97
+    },
+    {
+      "size": 341,
+      "algorithm": "Radix Sort",
+      "comparisons": 1364.00,
+      "swaps": 2728.00
+    },
+    {
+      "size": 351,
+      "algorithm": "Bubble Sort",
+      "comparisons": 61425.00,
+      "swaps": 30775.40
+    },
+    {
+      "size": 351,
+      "algorithm": "Insertion Sort",
+      "comparisons": 31119.67,
+      "swaps": 30775.40
+    },
+    {
+      "size": 351,
+      "algorithm": "Heap Sort",
+      "comparisons": 4879.13,
+      "swaps": 2673.27
+    },
+    {
+      "size": 351,
+      "algorithm": "Merge Sort",
+      "comparisons": 2535.93,
+      "swaps": 5996.00
+    },
+    {
+      "size": 351,
+      "algorithm": "Quick Sort",
+      "comparisons": 3110.50,
+      "swaps": 1769.17
+    },
+    {
+      "size": 351,
+      "algorithm": "Radix Sort",
+      "comparisons": 1404.00,
+      "swaps": 2808.00
+    },
+    {
+      "size": 361,
+      "algorithm": "Bubble Sort",
+      "comparisons": 64980.00,
+      "swaps": 32567.83
+    },
+    {
+      "size": 361,
+      "algorithm": "Insertion Sort",
+      "comparisons": 32922.00,
+      "swaps": 32567.83
+    },
+    {
+      "size": 361,
+      "algorithm": "Heap Sort",
+      "comparisons": 5046.90,
+      "swaps": 2758.30
+    },
+    {
+      "size": 361,
+      "algorithm": "Merge Sort",
+      "comparisons": 2619.13,
+      "swaps": 6196.00
+    },
+    {
+      "size": 361,
+      "algorithm": "Quick Sort",
+      "comparisons": 3218.87,
+      "swaps": 1816.43
+    },
+    {
+      "size": 361,
+      "algorithm": "Radix Sort",
+      "comparisons": 1444.00,
+      "swaps": 2888.00
+    },
+    {
+      "size": 371,
+      "algorithm": "Bubble Sort",
+      "comparisons": 68635.00,
+      "swaps": 34479.27
+    },
+    {
+      "size": 371,
+      "algorithm": "Insertion Sort",
+      "comparisons": 34843.33,
+      "swaps": 34479.27
+    },
+    {
+      "size": 371,
+      "algorithm": "Heap Sort",
+      "comparisons": 5215.70,
+      "swaps": 2852.57
+    },
+    {
+      "size": 371,
+      "algorithm": "Merge Sort",
+      "comparisons": 2703.97,
+      "swaps": 6396.00
+    },
+    {
+      "size": 371,
+      "algorithm": "Quick Sort",
+      "comparisons": 3322.00,
+      "swaps": 1849.60
+    },
+    {
+      "size": 371,
+      "algorithm": "Radix Sort",
+      "comparisons": 1484.00,
+      "swaps": 2968.00
+    },
+    {
+      "size": 381,
+      "algorithm": "Bubble Sort",
+      "comparisons": 72390.00,
+      "swaps": 36545.53
+    },
+    {
+      "size": 381,
+      "algorithm": "Insertion Sort",
+      "comparisons": 36919.60,
+      "swaps": 36545.53
+    },
+    {
+      "size": 381,
+      "algorithm": "Heap Sort",
+      "comparisons": 5382.87,
+      "swaps": 2943.17
+    },
+    {
+      "size": 381,
+      "algorithm": "Merge Sort",
+      "comparisons": 2792.50,
+      "swaps": 6596.00
+    },
+    {
+      "size": 381,
+      "algorithm": "Quick Sort",
+      "comparisons": 3509.17,
+      "swaps": 1941.10
+    },
+    {
+      "size": 381,
+      "algorithm": "Radix Sort",
+      "comparisons": 1524.00,
+      "swaps": 3048.00
+    },
+    {
+      "size": 391,
+      "algorithm": "Bubble Sort",
+      "comparisons": 76245.00,
+      "swaps": 38582.93
+    },
+    {
+      "size": 391,
+      "algorithm": "Insertion Sort",
+      "comparisons": 38967.00,
+      "swaps": 38582.93
+    },
+    {
+      "size": 391,
+      "algorithm": "Heap Sort",
+      "comparisons": 5553.17,
+      "swaps": 3032.30
+    },
+    {
+      "size": 391,
+      "algorithm": "Merge Sort",
+      "comparisons": 2878.30,
+      "swaps": 6796.00
+    },
+    {
+      "size": 391,
+      "algorithm": "Quick Sort",
+      "comparisons": 3556.37,
+      "swaps": 2019.57
+    },
+    {
+      "size": 391,
+      "algorithm": "Radix Sort",
+      "comparisons": 1564.00,
+      "swaps": 3128.00
+    },
+    {
+      "size": 401,
+      "algorithm": "Bubble Sort",
+      "comparisons": 80200.00,
+      "swaps": 40558.37
+    },
+    {
+      "size": 401,
+      "algorithm": "Insertion Sort",
+      "comparisons": 40952.40,
+      "swaps": 40558.37
+    },
+    {
+      "size": 401,
+      "algorithm": "Heap Sort",
+      "comparisons": 5727.47,
+      "swaps": 3127.83
+    },
+    {
+      "size": 401,
+      "algorithm": "Merge Sort",
+      "comparisons": 2968.33,
+      "swaps": 6996.00
+    },
+    {
+      "size": 401,
+      "algorithm": "Quick Sort",
+      "comparisons": 3678.17,
+      "swaps": 2040.63
+    },
+    {
+      "size": 401,
+      "algorithm": "Radix Sort",
+      "comparisons": 1604.00,
+      "swaps": 3208.00
+    },
+    {
+      "size": 411,
+      "algorithm": "Bubble Sort",
+      "comparisons": 84255.00,
+      "swaps": 42651.33
+    },
+    {
+      "size": 411,
+      "algorithm": "Insertion Sort",
+      "comparisons": 43055.27,
+      "swaps": 42651.33
+    },
+    {
+      "size": 411,
+      "algorithm": "Heap Sort",
+      "comparisons": 5896.10,
+      "swaps": 3217.87
+    },
+    {
+      "size": 411,
+      "algorithm": "Merge Sort",
+      "comparisons": 3058.07,
+      "swaps": 7196.00
+    },
+    {
+      "size": 411,
+      "algorithm": "Quick Sort",
+      "comparisons": 3783.83,
+      "swaps": 2165.90
+    },
+    {
+      "size": 411,
+      "algorithm": "Radix Sort",
+      "comparisons": 1644.00,
+      "swaps": 3288.00
+    },
+    {
+      "size": 421,
+      "algorithm": "Bubble Sort",
+      "comparisons": 88410.00,
+      "swaps": 44732.47
+    },
+    {
+      "size": 421,
+      "algorithm": "Insertion Sort",
+      "comparisons": 45146.40,
+      "swaps": 44732.47
+    },
+    {
+      "size": 421,
+      "algorithm": "Heap Sort",
+      "comparisons": 6066.63,
+      "swaps": 3309.20
+    },
+    {
+      "size": 421,
+      "algorithm": "Merge Sort",
+      "comparisons": 3148.33,
+      "swaps": 7396.00
+    },
+    {
+      "size": 421,
+      "algorithm": "Quick Sort",
+      "comparisons": 3906.13,
+      "swaps": 2247.33
+    },
+    {
+      "size": 421,
+      "algorithm": "Radix Sort",
+      "comparisons": 1684.00,
+      "swaps": 3368.00
+    },
+    {
+      "size": 431,
+      "algorithm": "Bubble Sort",
+      "comparisons": 92665.00,
+      "swaps": 46806.43
+    },
+    {
+      "size": 431,
+      "algorithm": "Insertion Sort",
+      "comparisons": 47230.30,
+      "swaps": 46806.43
+    },
+    {
+      "size": 431,
+      "algorithm": "Heap Sort",
+      "comparisons": 6239.33,
+      "swaps": 3402.27
+    },
+    {
+      "size": 431,
+      "algorithm": "Merge Sort",
+      "comparisons": 3233.67,
+      "swaps": 7596.00
+    },
+    {
+      "size": 431,
+      "algorithm": "Quick Sort",
+      "comparisons": 4002.57,
+      "swaps": 2293.80
+    },
+    {
+      "size": 431,
+      "algorithm": "Radix Sort",
+      "comparisons": 1724.00,
+      "swaps": 3448.00
+    },
+    {
+      "size": 441,
+      "algorithm": "Bubble Sort",
+      "comparisons": 97020.00,
+      "swaps": 49046.57
+    },
+    {
+      "size": 441,
+      "algorithm": "Insertion Sort",
+      "comparisons": 49480.40,
+      "swaps": 49046.57
+    },
+    {
+      "size": 441,
+      "algorithm": "Heap Sort",
+      "comparisons": 6414.37,
+      "swaps": 3497.43
+    },
+    {
+      "size": 441,
+      "algorithm": "Merge Sort",
+      "comparisons": 3324.43,
+      "swaps": 7796.00
+    },
+    {
+      "size": 441,
+      "algorithm": "Quick Sort",
+      "comparisons": 4189.87,
+      "swaps": 2282.67
+    },
+    {
+      "size": 441,
+      "algorithm": "Radix Sort",
+      "comparisons": 1764.00,
+      "swaps": 3528.00
+    },
+    {
+      "size": 451,
+      "algorithm": "Bubble Sort",
+      "comparisons": 101475.00,
+      "swaps": 51379.60
+    },
+    {
+      "size": 451,
+      "algorithm": "Insertion Sort",
+      "comparisons": 51823.43,
+      "swaps": 51379.60
+    },
+    {
+      "size": 451,
+      "algorithm": "Heap Sort",
+      "comparisons": 6587.03,
+      "swaps": 3588.93
+    },
+    {
+      "size": 451,
+      "algorithm": "Merge Sort",
+      "comparisons": 3411.47,
+      "swaps": 7996.00
+    },
+    {
+      "size": 451,
+      "algorithm": "Quick Sort",
+      "comparisons": 4171.87,
+      "swaps": 2357.80
+    },
+    {
+      "size": 451,
+      "algorithm": "Radix Sort",
+      "comparisons": 1804.00,
+      "swaps": 3608.00
+    },
+    {
+      "size": 461,
+      "algorithm": "Bubble Sort",
+      "comparisons": 106030.00,
+      "swaps": 53546.47
+    },
+    {
+      "size": 461,
+      "algorithm": "Insertion Sort",
+      "comparisons": 54000.30,
+      "swaps": 53546.47
+    },
+    {
+      "size": 461,
+      "algorithm": "Heap Sort",
+      "comparisons": 6759.70,
+      "swaps": 3681.93
+    },
+    {
+      "size": 461,
+      "algorithm": "Merge Sort",
+      "comparisons": 3502.53,
+      "swaps": 8196.00
+    },
+    {
+      "size": 461,
+      "algorithm": "Quick Sort",
+      "comparisons": 4353.10,
+      "swaps": 2468.30
+    },
+    {
+      "size": 461,
+      "algorithm": "Radix Sort",
+      "comparisons": 1844.00,
+      "swaps": 3688.00
+    },
+    {
+      "size": 471,
+      "algorithm": "Bubble Sort",
+      "comparisons": 110685.00,
+      "swaps": 55853.53
+    },
+    {
+      "size": 471,
+      "algorithm": "Insertion Sort",
+      "comparisons": 56317.33,
+      "swaps": 55853.53
+    },
+    {
+      "size": 471,
+      "algorithm": "Heap Sort",
+      "comparisons": 6932.23,
+      "swaps": 3774.67
+    },
+    {
+      "size": 471,
+      "algorithm": "Merge Sort",
+      "comparisons": 3596.73,
+      "swaps": 8396.00
+    },
+    {
+      "size": 471,
+      "algorithm": "Quick Sort",
+      "comparisons": 4443.03,
+      "swaps": 2593.90
+    },
+    {
+      "size": 471,
+      "algorithm": "Radix Sort",
+      "comparisons": 1884.00,
+      "swaps": 3768.00
+    },
+    {
+      "size": 481,
+      "algorithm": "Bubble Sort",
+      "comparisons": 115440.00,
+      "swaps": 58158.40
+    },
+    {
+      "size": 481,
+      "algorithm": "Insertion Sort",
+      "comparisons": 58632.20,
+      "swaps": 58158.40
+    },
+    {
+      "size": 481,
+      "algorithm": "Heap Sort",
+      "comparisons": 7099.83,
+      "swaps": 3864.87
+    },
+    {
+      "size": 481,
+      "algorithm": "Merge Sort",
+      "comparisons": 3682.33,
+      "swaps": 8596.00
+    },
+    {
+      "size": 481,
+      "algorithm": "Quick Sort",
+      "comparisons": 4665.93,
+      "swaps": 2719.10
+    },
+    {
+      "size": 481,
+      "algorithm": "Radix Sort",
+      "comparisons": 1924.00,
+      "swaps": 3848.00
+    },
+    {
+      "size": 491,
+      "algorithm": "Bubble Sort",
+      "comparisons": 120295.00,
+      "swaps": 60567.03
+    },
+    {
+      "size": 491,
+      "algorithm": "Insertion Sort",
+      "comparisons": 61050.83,
+      "swaps": 60567.03
+    },
+    {
+      "size": 491,
+      "algorithm": "Heap Sort",
+      "comparisons": 7276.40,
+      "swaps": 3960.63
+    },
+    {
+      "size": 491,
+      "algorithm": "Merge Sort",
+      "comparisons": 3771.47,
+      "swaps": 8796.00
+    },
+    {
+      "size": 491,
+      "algorithm": "Quick Sort",
+      "comparisons": 4713.83,
+      "swaps": 2664.87
+    },
+    {
+      "size": 491,
+      "algorithm": "Radix Sort",
+      "comparisons": 1964.00,
+      "swaps": 3928.00
+    },
+    {
+      "size": 501,
+      "algorithm": "Bubble Sort",
+      "comparisons": 125250.00,
+      "swaps": 62878.93
+    },
+    {
+      "size": 501,
+      "algorithm": "Insertion Sort",
+      "comparisons": 63372.73,
+      "swaps": 62878.93
+    },
+    {
+      "size": 501,
+      "algorithm": "Heap Sort",
+      "comparisons": 7449.03,
+      "swaps": 4052.70
+    },
+    {
+      "size": 501,
+      "algorithm": "Merge Sort",
+      "comparisons": 3865.63,
+      "swaps": 8996.00
+    },
+    {
+      "size": 501,
+      "algorithm": "Quick Sort",
+      "comparisons": 4848.83,
+      "swaps": 2785.97
+    },
+    {
+      "size": 501,
+      "algorithm": "Radix Sort",
+      "comparisons": 2004.00,
+      "swaps": 4008.00
+    },
+    {
+      "size": 511,
+      "algorithm": "Bubble Sort",
+      "comparisons": 130305.00,
+      "swaps": 65381.43
+    },
+    {
+      "size": 511,
+      "algorithm": "Insertion Sort",
+      "comparisons": 65885.23,
+      "swaps": 65381.43
+    },
+    {
+      "size": 511,
+      "algorithm": "Heap Sort",
+      "comparisons": 7611.63,
+      "swaps": 4138.37
+    },
+    {
+      "size": 511,
+      "algorithm": "Merge Sort",
+      "comparisons": 3954.30,
+      "swaps": 9196.00
+    },
+    {
+      "size": 511,
+      "algorithm": "Quick Sort",
+      "comparisons": 4905.17,
+      "swaps": 2792.83
+    },
+    {
+      "size": 511,
+      "algorithm": "Radix Sort",
+      "comparisons": 2044.00,
+      "swaps": 4088.00
+    },
+    {
+      "size": 521,
+      "algorithm": "Bubble Sort",
+      "comparisons": 135460.00,
+      "swaps": 67887.87
+    },
+    {
+      "size": 521,
+      "algorithm": "Insertion Sort",
+      "comparisons": 68401.57,
+      "swaps": 67887.87
+    },
+    {
+      "size": 521,
+      "algorithm": "Heap Sort",
+      "comparisons": 7803.80,
+      "swaps": 4240.93
+    },
+    {
+      "size": 521,
+      "algorithm": "Merge Sort",
+      "comparisons": 4047.23,
+      "swaps": 9414.00
+    },
+    {
+      "size": 521,
+      "algorithm": "Quick Sort",
+      "comparisons": 5049.30,
+      "swaps": 2928.37
+    },
+    {
+      "size": 521,
+      "algorithm": "Radix Sort",
+      "comparisons": 2084.00,
+      "swaps": 4168.00
+    },
+    {
+      "size": 531,
+      "algorithm": "Bubble Sort",
+      "comparisons": 140715.00,
+      "swaps": 70416.60
+    },
+    {
+      "size": 531,
+      "algorithm": "Insertion Sort",
+      "comparisons": 70940.27,
+      "swaps": 70416.60
+    },
+    {
+      "size": 531,
+      "algorithm": "Heap Sort",
+      "comparisons": 7986.03,
+      "swaps": 4338.63
+    },
+    {
+      "size": 531,
+      "algorithm": "Merge Sort",
+      "comparisons": 4142.00,
+      "swaps": 9634.00
+    },
+    {
+      "size": 531,
+      "algorithm": "Quick Sort",
+      "comparisons": 5161.80,
+      "swaps": 2930.57
+    },
+    {
+      "size": 531,
+      "algorithm": "Radix Sort",
+      "comparisons": 2124.00,
+      "swaps": 4248.00
+    },
+    {
+      "size": 541,
+      "algorithm": "Bubble Sort",
+      "comparisons": 146070.00,
+      "swaps": 72992.67
+    },
+    {
+      "size": 541,
+      "algorithm": "Insertion Sort",
+      "comparisons": 73526.33,
+      "swaps": 72992.67
+    },
+    {
+      "size": 541,
+      "algorithm": "Heap Sort",
+      "comparisons": 8163.87,
+      "swaps": 4433.60
+    },
+    {
+      "size": 541,
+      "algorithm": "Merge Sort",
+      "comparisons": 4234.53,
+      "swaps": 9854.00
+    },
+    {
+      "size": 541,
+      "algorithm": "Quick Sort",
+      "comparisons": 5339.63,
+      "swaps": 2991.77
+    },
+    {
+      "size": 541,
+      "algorithm": "Radix Sort",
+      "comparisons": 2164.00,
+      "swaps": 4328.00
+    },
+    {
+      "size": 551,
+      "algorithm": "Bubble Sort",
+      "comparisons": 151525.00,
+      "swaps": 75796.03
+    },
+    {
+      "size": 551,
+      "algorithm": "Insertion Sort",
+      "comparisons": 76339.70,
+      "swaps": 75796.03
+    },
+    {
+      "size": 551,
+      "algorithm": "Heap Sort",
+      "comparisons": 8345.37,
+      "swaps": 4533.40
+    },
+    {
+      "size": 551,
+      "algorithm": "Merge Sort",
+      "comparisons": 4330.10,
+      "swaps": 10074.00
+    },
+    {
+      "size": 551,
+      "algorithm": "Quick Sort",
+      "comparisons": 5513.77,
+      "swaps": 3138.87
+    },
+    {
+      "size": 551,
+      "algorithm": "Radix Sort",
+      "comparisons": 2204.00,
+      "swaps": 4408.00
+    },
+    {
+      "size": 561,
+      "algorithm": "Bubble Sort",
+      "comparisons": 157080.00,
+      "swaps": 78684.53
+    },
+    {
+      "size": 561,
+      "algorithm": "Insertion Sort",
+      "comparisons": 79238.20,
+      "swaps": 78684.53
+    },
+    {
+      "size": 561,
+      "algorithm": "Heap Sort",
+      "comparisons": 8532.13,
+      "swaps": 4630.57
+    },
+    {
+      "size": 561,
+      "algorithm": "Merge Sort",
+      "comparisons": 4426.67,
+      "swaps": 10294.00
+    },
+    {
+      "size": 561,
+      "algorithm": "Quick Sort",
+      "comparisons": 5485.87,
+      "swaps": 3074.80
+    },
+    {
+      "size": 561,
+      "algorithm": "Radix Sort",
+      "comparisons": 2244.00,
+      "swaps": 4488.00
+    },
+    {
+      "size": 571,
+      "algorithm": "Bubble Sort",
+      "comparisons": 162735.00,
+      "swaps": 81720.97
+    },
+    {
+      "size": 571,
+      "algorithm": "Insertion Sort",
+      "comparisons": 82284.63,
+      "swaps": 81720.97
+    },
+    {
+      "size": 571,
+      "algorithm": "Heap Sort",
+      "comparisons": 8714.33,
+      "swaps": 4730.13
+    },
+    {
+      "size": 571,
+      "algorithm": "Merge Sort",
+      "comparisons": 4519.17,
+      "swaps": 10514.00
+    },
+    {
+      "size": 571,
+      "algorithm": "Quick Sort",
+      "comparisons": 5686.57,
+      "swaps": 3172.43
+    },
+    {
+      "size": 571,
+      "algorithm": "Radix Sort",
+      "comparisons": 2284.00,
+      "swaps": 4568.00
+    },
+    {
+      "size": 581,
+      "algorithm": "Bubble Sort",
+      "comparisons": 168490.00,
+      "swaps": 84457.33
+    },
+    {
+      "size": 581,
+      "algorithm": "Insertion Sort",
+      "comparisons": 85031.00,
+      "swaps": 84457.33
+    },
+    {
+      "size": 581,
+      "algorithm": "Heap Sort",
+      "comparisons": 8895.80,
+      "swaps": 4827.60
+    },
+    {
+      "size": 581,
+      "algorithm": "Merge Sort",
+      "comparisons": 4613.63,
+      "swaps": 10734.00
+    },
+    {
+      "size": 581,
+      "algorithm": "Quick Sort",
+      "comparisons": 5798.53,
+      "swaps": 3266.23
+    },
+    {
+      "size": 581,
+      "algorithm": "Radix Sort",
+      "comparisons": 2324.00,
+      "swaps": 4648.00
+    },
+    {
+      "size": 591,
+      "algorithm": "Bubble Sort",
+      "comparisons": 174345.00,
+      "swaps": 87429.40
+    },
+    {
+      "size": 591,
+      "algorithm": "Insertion Sort",
+      "comparisons": 88013.07,
+      "swaps": 87429.40
+    },
+    {
+      "size": 591,
+      "algorithm": "Heap Sort",
+      "comparisons": 9081.83,
+      "swaps": 4926.70
+    },
+    {
+      "size": 591,
+      "algorithm": "Merge Sort",
+      "comparisons": 4705.57,
+      "swaps": 10954.00
+    },
+    {
+      "size": 591,
+      "algorithm": "Quick Sort",
+      "comparisons": 5826.73,
+      "swaps": 3233.97
+    },
+    {
+      "size": 591,
+      "algorithm": "Radix Sort",
+      "comparisons": 2364.00,
+      "swaps": 4728.00
+    },
+    {
+      "size": 601,
+      "algorithm": "Bubble Sort",
+      "comparisons": 180300.00,
+      "swaps": 90516.53
+    },
+    {
+      "size": 601,
+      "algorithm": "Insertion Sort",
+      "comparisons": 91110.20,
+      "swaps": 90516.53
+    },
+    {
+      "size": 601,
+      "algorithm": "Heap Sort",
+      "comparisons": 9264.67,
+      "swaps": 5022.03
+    },
+    {
+      "size": 601,
+      "algorithm": "Merge Sort",
+      "comparisons": 4806.87,
+      "swaps": 11174.00
+    },
+    {
+      "size": 601,
+      "algorithm": "Quick Sort",
+      "comparisons": 6007.93,
+      "swaps": 3291.67
+    },
+    {
+      "size": 601,
+      "algorithm": "Radix Sort",
+      "comparisons": 2404.00,
+      "swaps": 4808.00
+    },
+    {
+      "size": 611,
+      "algorithm": "Bubble Sort",
+      "comparisons": 186355.00,
+      "swaps": 93665.07
+    },
+    {
+      "size": 611,
+      "algorithm": "Insertion Sort",
+      "comparisons": 94268.73,
+      "swaps": 93665.07
+    },
+    {
+      "size": 611,
+      "algorithm": "Heap Sort",
+      "comparisons": 9455.60,
+      "swaps": 5126.83
+    },
+    {
+      "size": 611,
+      "algorithm": "Merge Sort",
+      "comparisons": 4898.13,
+      "swaps": 11394.00
+    },
+    {
+      "size": 611,
+      "algorithm": "Quick Sort",
+      "comparisons": 6126.40,
+      "swaps": 3388.23
+    },
+    {
+      "size": 611,
+      "algorithm": "Radix Sort",
+      "comparisons": 2444.00,
+      "swaps": 4888.00
+    },
+    {
+      "size": 621,
+      "algorithm": "Bubble Sort",
+      "comparisons": 192510.00,
+      "swaps": 96477.80
+    },
+    {
+      "size": 621,
+      "algorithm": "Insertion Sort",
+      "comparisons": 97091.47,
+      "swaps": 96477.80
+    },
+    {
+      "size": 621,
+      "algorithm": "Heap Sort",
+      "comparisons": 9635.50,
+      "swaps": 5221.47
+    },
+    {
+      "size": 621,
+      "algorithm": "Merge Sort",
+      "comparisons": 4991.47,
+      "swaps": 11614.00
+    },
+    {
+      "size": 621,
+      "algorithm": "Quick Sort",
+      "comparisons": 6240.40,
+      "swaps": 3679.73
+    },
+    {
+      "size": 621,
+      "algorithm": "Radix Sort",
+      "comparisons": 2484.00,
+      "swaps": 4968.00
+    },
+    {
+      "size": 631,
+      "algorithm": "Bubble Sort",
+      "comparisons": 198765.00,
+      "swaps": 99699.33
+    },
+    {
+      "size": 631,
+      "algorithm": "Insertion Sort",
+      "comparisons": 100322.97,
+      "swaps": 99699.33
+    },
+    {
+      "size": 631,
+      "algorithm": "Heap Sort",
+      "comparisons": 9824.80,
+      "swaps": 5326.10
+    },
+    {
+      "size": 631,
+      "algorithm": "Merge Sort",
+      "comparisons": 5090.37,
+      "swaps": 11834.00
+    },
+    {
+      "size": 631,
+      "algorithm": "Quick Sort",
+      "comparisons": 6349.73,
+      "swaps": 3535.53
+    },
+    {
+      "size": 631,
+      "algorithm": "Radix Sort",
+      "comparisons": 2524.00,
+      "swaps": 5048.00
+    },
+    {
+      "size": 641,
+      "algorithm": "Bubble Sort",
+      "comparisons": 205120.00,
+      "swaps": 102988.03
+    },
+    {
+      "size": 641,
+      "algorithm": "Insertion Sort",
+      "comparisons": 103621.63,
+      "swaps": 102988.03
+    },
+    {
+      "size": 641,
+      "algorithm": "Heap Sort",
+      "comparisons": 10013.00,
+      "swaps": 5428.10
+    },
+    {
+      "size": 641,
+      "algorithm": "Merge Sort",
+      "comparisons": 5184.77,
+      "swaps": 12054.00
+    },
+    {
+      "size": 641,
+      "algorithm": "Quick Sort",
+      "comparisons": 6484.67,
+      "swaps": 3670.43
+    },
+    {
+      "size": 641,
+      "algorithm": "Radix Sort",
+      "comparisons": 2564.00,
+      "swaps": 5128.00
+    },
+    {
+      "size": 651,
+      "algorithm": "Bubble Sort",
+      "comparisons": 211575.00,
+      "swaps": 106180.70
+    },
+    {
+      "size": 651,
+      "algorithm": "Insertion Sort",
+      "comparisons": 106824.27,
+      "swaps": 106180.70
+    },
+    {
+      "size": 651,
+      "algorithm": "Heap Sort",
+      "comparisons": 10200.70,
+      "swaps": 5526.83
+    },
+    {
+      "size": 651,
+      "algorithm": "Merge Sort",
+      "comparisons": 5275.80,
+      "swaps": 12274.00
+    },
+    {
+      "size": 651,
+      "algorithm": "Quick Sort",
+      "comparisons": 6619.40,
+      "swaps": 3684.90
+    },
+    {
+      "size": 651,
+      "algorithm": "Radix Sort",
+      "comparisons": 2604.00,
+      "swaps": 5208.00
+    },
+    {
+      "size": 661,
+      "algorithm": "Bubble Sort",
+      "comparisons": 218130.00,
+      "swaps": 109305.23
+    },
+    {
+      "size": 661,
+      "algorithm": "Insertion Sort",
+      "comparisons": 109958.80,
+      "swaps": 109305.23
+    },
+    {
+      "size": 661,
+      "algorithm": "Heap Sort",
+      "comparisons": 10388.70,
+      "swaps": 5626.67
+    },
+    {
+      "size": 661,
+      "algorithm": "Merge Sort",
+      "comparisons": 5372.13,
+      "swaps": 12494.00
+    },
+    {
+      "size": 661,
+      "algorithm": "Quick Sort",
+      "comparisons": 6865.87,
+      "swaps": 3930.27
+    },
+    {
+      "size": 661,
+      "algorithm": "Radix Sort",
+      "comparisons": 2644.00,
+      "swaps": 5288.00
+    },
+    {
+      "size": 671,
+      "algorithm": "Bubble Sort",
+      "comparisons": 224785.00,
+      "swaps": 112556.93
+    },
+    {
+      "size": 671,
+      "algorithm": "Insertion Sort",
+      "comparisons": 113220.43,
+      "swaps": 112556.93
+    },
+    {
+      "size": 671,
+      "algorithm": "Heap Sort",
+      "comparisons": 10571.20,
+      "swaps": 5724.17
+    },
+    {
+      "size": 671,
+      "algorithm": "Merge Sort",
+      "comparisons": 5470.07,
+      "swaps": 12714.00
+    },
+    {
+      "size": 671,
+      "algorithm": "Quick Sort",
+      "comparisons": 6868.63,
+      "swaps": 3838.37
+    },
+    {
+      "size": 671,
+      "algorithm": "Radix Sort",
+      "comparisons": 2684.00,
+      "swaps": 5368.00
+    },
+    {
+      "size": 681,
+      "algorithm": "Bubble Sort",
+      "comparisons": 231540.00,
+      "swaps": 115970.23
+    },
+    {
+      "size": 681,
+      "algorithm": "Insertion Sort",
+      "comparisons": 116643.70,
+      "swaps": 115970.23
+    },
+    {
+      "size": 681,
+      "algorithm": "Heap Sort",
+      "comparisons": 10762.50,
+      "swaps": 5829.83
+    },
+    {
+      "size": 681,
+      "algorithm": "Merge Sort",
+      "comparisons": 5569.83,
+      "swaps": 12934.00
+    },
+    {
+      "size": 681,
+      "algorithm": "Quick Sort",
+      "comparisons": 6910.40,
+      "swaps": 3927.03
+    },
+    {
+      "size": 681,
+      "algorithm": "Radix Sort",
+      "comparisons": 2724.00,
+      "swaps": 5448.00
+    },
+    {
+      "size": 691,
+      "algorithm": "Bubble Sort",
+      "comparisons": 238395.00,
+      "swaps": 119232.50
+    },
+    {
+      "size": 691,
+      "algorithm": "Insertion Sort",
+      "comparisons": 119915.97,
+      "swaps": 119232.50
+    },
+    {
+      "size": 691,
+      "algorithm": "Heap Sort",
+      "comparisons": 10959.37,
+      "swaps": 5934.60
+    },
+    {
+      "size": 691,
+      "algorithm": "Merge Sort",
+      "comparisons": 5660.97,
+      "swaps": 13154.00
+    },
+    {
+      "size": 691,
+      "algorithm": "Quick Sort",
+      "comparisons": 7102.93,
+      "swaps": 4043.43
+    },
+    {
+      "size": 691,
+      "algorithm": "Radix Sort",
+      "comparisons": 2764.00,
+      "swaps": 5528.00
+    },
+    {
+      "size": 701,
+      "algorithm": "Bubble Sort",
+      "comparisons": 245350.00,
+      "swaps": 122817.83
+    },
+    {
+      "size": 701,
+      "algorithm": "Insertion Sort",
+      "comparisons": 123511.30,
+      "swaps": 122817.83
+    },
+    {
+      "size": 701,
+      "algorithm": "Heap Sort",
+      "comparisons": 11139.50,
+      "swaps": 6030.97
+    },
+    {
+      "size": 701,
+      "algorithm": "Merge Sort",
+      "comparisons": 5765.47,
+      "swaps": 13374.00
+    },
+    {
+      "size": 701,
+      "algorithm": "Quick Sort",
+      "comparisons": 7167.90,
+      "swaps": 4113.40
+    },
+    {
+      "size": 701,
+      "algorithm": "Radix Sort",
+      "comparisons": 2804.00,
+      "swaps": 5608.00
+    },
+    {
+      "size": 711,
+      "algorithm": "Bubble Sort",
+      "comparisons": 252405.00,
+      "swaps": 126197.30
+    },
+    {
+      "size": 711,
+      "algorithm": "Insertion Sort",
+      "comparisons": 126900.77,
+      "swaps": 126197.30
+    },
+    {
+      "size": 711,
+      "algorithm": "Heap Sort",
+      "comparisons": 11327.50,
+      "swaps": 6130.30
+    },
+    {
+      "size": 711,
+      "algorithm": "Merge Sort",
+      "comparisons": 5857.13,
+      "swaps": 13594.00
+    },
+    {
+      "size": 711,
+      "algorithm": "Quick Sort",
+      "comparisons": 7353.63,
+      "swaps": 4194.40
+    },
+    {
+      "size": 711,
+      "algorithm": "Radix Sort",
+      "comparisons": 2844.00,
+      "swaps": 5688.00
+    },
+    {
+      "size": 721,
+      "algorithm": "Bubble Sort",
+      "comparisons": 259560.00,
+      "swaps": 129611.70
+    },
+    {
+      "size": 721,
+      "algorithm": "Insertion Sort",
+      "comparisons": 130325.17,
+      "swaps": 129611.70
+    },
+    {
+      "size": 721,
+      "algorithm": "Heap Sort",
+      "comparisons": 11514.03,
+      "swaps": 6227.47
+    },
+    {
+      "size": 721,
+      "algorithm": "Merge Sort",
+      "comparisons": 5952.87,
+      "swaps": 13814.00
+    },
+    {
+      "size": 721,
+      "algorithm": "Quick Sort",
+      "comparisons": 7436.17,
+      "swaps": 4255.00
+    },
+    {
+      "size": 721,
+      "algorithm": "Radix Sort",
+      "comparisons": 2884.00,
+      "swaps": 5768.00
+    },
+    {
+      "size": 731,
+      "algorithm": "Bubble Sort",
+      "comparisons": 266815.00,
+      "swaps": 133314.87
+    },
+    {
+      "size": 731,
+      "algorithm": "Insertion Sort",
+      "comparisons": 134038.30,
+      "swaps": 133314.87
+    },
+    {
+      "size": 731,
+      "algorithm": "Heap Sort",
+      "comparisons": 11703.17,
+      "swaps": 6332.37
+    },
+    {
+      "size": 731,
+      "algorithm": "Merge Sort",
+      "comparisons": 6052.70,
+      "swaps": 14034.00
+    },
+    {
+      "size": 731,
+      "algorithm": "Quick Sort",
+      "comparisons": 7677.50,
+      "swaps": 4268.13
+    },
+    {
+      "size": 731,
+      "algorithm": "Radix Sort",
+      "comparisons": 2924.00,
+      "swaps": 5848.00
+    },
+    {
+      "size": 741,
+      "algorithm": "Bubble Sort",
+      "comparisons": 274170.00,
+      "swaps": 137141.03
+    },
+    {
+      "size": 741,
+      "algorithm": "Insertion Sort",
+      "comparisons": 137874.47,
+      "swaps": 137141.03
+    },
+    {
+      "size": 741,
+      "algorithm": "Heap Sort",
+      "comparisons": 11892.73,
+      "swaps": 6434.07
+    },
+    {
+      "size": 741,
+      "algorithm": "Merge Sort",
+      "comparisons": 6143.60,
+      "swaps": 14254.00
+    },
+    {
+      "size": 741,
+      "algorithm": "Quick Sort",
+      "comparisons": 7696.57,
+      "swaps": 4345.67
+    },
+    {
+      "size": 741,
+      "algorithm": "Radix Sort",
+      "comparisons": 2964.00,
+      "swaps": 5928.00
+    },
+    {
+      "size": 751,
+      "algorithm": "Bubble Sort",
+      "comparisons": 281625.00,
+      "swaps": 140949.07
+    },
+    {
+      "size": 751,
+      "algorithm": "Insertion Sort",
+      "comparisons": 141692.47,
+      "swaps": 140949.07
+    },
+    {
+      "size": 751,
+      "algorithm": "Heap Sort",
+      "comparisons": 12075.27,
+      "swaps": 6528.60
+    },
+    {
+      "size": 751,
+      "algorithm": "Merge Sort",
+      "comparisons": 6243.93,
+      "swaps": 14474.00
+    },
+    {
+      "size": 751,
+      "algorithm": "Quick Sort",
+      "comparisons": 7916.23,
+      "swaps": 4394.57
+    },
+    {
+      "size": 751,
+      "algorithm": "Radix Sort",
+      "comparisons": 3004.00,
+      "swaps": 6008.00
+    },
+    {
+      "size": 761,
+      "algorithm": "Bubble Sort",
+      "comparisons": 289180.00,
+      "swaps": 144721.30
+    },
+    {
+      "size": 761,
+      "algorithm": "Insertion Sort",
+      "comparisons": 145474.70,
+      "swaps": 144721.30
+    },
+    {
+      "size": 761,
+      "algorithm": "Heap Sort",
+      "comparisons": 12266.37,
+      "swaps": 6632.73
+    },
+    {
+      "size": 761,
+      "algorithm": "Merge Sort",
+      "comparisons": 6339.50,
+      "swaps": 14694.00
+    },
+    {
+      "size": 761,
+      "algorithm": "Quick Sort",
+      "comparisons": 7915.50,
+      "swaps": 4358.13
+    },
+    {
+      "size": 761,
+      "algorithm": "Radix Sort",
+      "comparisons": 3044.00,
+      "swaps": 6088.00
+    },
+    {
+      "size": 771,
+      "algorithm": "Bubble Sort",
+      "comparisons": 296835.00,
+      "swaps": 148488.20
+    },
+    {
+      "size": 771,
+      "algorithm": "Insertion Sort",
+      "comparisons": 149251.60,
+      "swaps": 148488.20
+    },
+    {
+      "size": 771,
+      "algorithm": "Heap Sort",
+      "comparisons": 12451.57,
+      "swaps": 6729.80
+    },
+    {
+      "size": 771,
+      "algorithm": "Merge Sort",
+      "comparisons": 6440.33,
+      "swaps": 14914.00
+    },
+    {
+      "size": 771,
+      "algorithm": "Quick Sort",
+      "comparisons": 8145.73,
+      "swaps": 4567.83
+    },
+    {
+      "size": 771,
+      "algorithm": "Radix Sort",
+      "comparisons": 3084.00,
+      "swaps": 6168.00
+    },
+    {
+      "size": 781,
+      "algorithm": "Bubble Sort",
+      "comparisons": 304590.00,
+      "swaps": 152290.13
+    },
+    {
+      "size": 781,
+      "algorithm": "Insertion Sort",
+      "comparisons": 153063.53,
+      "swaps": 152290.13
+    },
+    {
+      "size": 781,
+      "algorithm": "Heap Sort",
+      "comparisons": 12647.23,
+      "swaps": 6836.50
+    },
+    {
+      "size": 781,
+      "algorithm": "Merge Sort",
+      "comparisons": 6531.07,
+      "swaps": 15134.00
+    },
+    {
+      "size": 781,
+      "algorithm": "Quick Sort",
+      "comparisons": 8136.83,
+      "swaps": 4502.57
+    },
+    {
+      "size": 781,
+      "algorithm": "Radix Sort",
+      "comparisons": 3124.00,
+      "swaps": 6248.00
+    },
+    {
+      "size": 791,
+      "algorithm": "Bubble Sort",
+      "comparisons": 312445.00,
+      "swaps": 156132.17
+    },
+    {
+      "size": 791,
+      "algorithm": "Insertion Sort",
+      "comparisons": 156915.57,
+      "swaps": 156132.17
+    },
+    {
+      "size": 791,
+      "algorithm": "Heap Sort",
+      "comparisons": 12840.97,
+      "swaps": 6941.03
+    },
+    {
+      "size": 791,
+      "algorithm": "Merge Sort",
+      "comparisons": 6633.63,
+      "swaps": 15354.00
+    },
+    {
+      "size": 791,
+      "algorithm": "Quick Sort",
+      "comparisons": 8426.60,
+      "swaps": 4726.27
+    },
+    {
+      "size": 791,
+      "algorithm": "Radix Sort",
+      "comparisons": 3164.00,
+      "swaps": 6328.00
+    },
+    {
+      "size": 801,
+      "algorithm": "Bubble Sort",
+      "comparisons": 320400.00,
+      "swaps": 159922.57
+    },
+    {
+      "size": 801,
+      "algorithm": "Insertion Sort",
+      "comparisons": 160715.97,
+      "swaps": 159922.57
+    },
+    {
+      "size": 801,
+      "algorithm": "Heap Sort",
+      "comparisons": 13026.90,
+      "swaps": 7041.40
+    },
+    {
+      "size": 801,
+      "algorithm": "Merge Sort",
+      "comparisons": 6732.77,
+      "swaps": 15574.00
+    },
+    {
+      "size": 801,
+      "algorithm": "Quick Sort",
+      "comparisons": 8418.97,
+      "swaps": 4843.57
+    },
+    {
+      "size": 801,
+      "algorithm": "Radix Sort",
+      "comparisons": 3204.00,
+      "swaps": 6408.00
+    },
+    {
+      "size": 811,
+      "algorithm": "Bubble Sort",
+      "comparisons": 328455.00,
+      "swaps": 164089.53
+    },
+    {
+      "size": 811,
+      "algorithm": "Insertion Sort",
+      "comparisons": 164892.90,
+      "swaps": 164089.53
+    },
+    {
+      "size": 811,
+      "algorithm": "Heap Sort",
+      "comparisons": 13218.30,
+      "swaps": 7140.80
+    },
+    {
+      "size": 811,
+      "algorithm": "Merge Sort",
+      "comparisons": 6836.00,
+      "swaps": 15794.00
+    },
+    {
+      "size": 811,
+      "algorithm": "Quick Sort",
+      "comparisons": 8413.73,
+      "swaps": 4834.60
+    },
+    {
+      "size": 811,
+      "algorithm": "Radix Sort",
+      "comparisons": 3244.00,
+      "swaps": 6488.00
+    },
+    {
+      "size": 821,
+      "algorithm": "Bubble Sort",
+      "comparisons": 336610.00,
+      "swaps": 168283.93
+    },
+    {
+      "size": 821,
+      "algorithm": "Insertion Sort",
+      "comparisons": 169097.27,
+      "swaps": 168283.93
+    },
+    {
+      "size": 821,
+      "algorithm": "Heap Sort",
+      "comparisons": 13416.57,
+      "swaps": 7249.17
+    },
+    {
+      "size": 821,
+      "algorithm": "Merge Sort",
+      "comparisons": 6931.43,
+      "swaps": 16014.00
+    },
+    {
+      "size": 821,
+      "algorithm": "Quick Sort",
+      "comparisons": 8703.07,
+      "swaps": 4887.73
+    },
+    {
+      "size": 821,
+      "algorithm": "Radix Sort",
+      "comparisons": 3284.00,
+      "swaps": 6568.00
+    },
+    {
+      "size": 831,
+      "algorithm": "Bubble Sort",
+      "comparisons": 344865.00,
+      "swaps": 172026.77
+    },
+    {
+      "size": 831,
+      "algorithm": "Insertion Sort",
+      "comparisons": 172850.07,
+      "swaps": 172026.77
+    },
+    {
+      "size": 831,
+      "algorithm": "Heap Sort",
+      "comparisons": 13607.67,
+      "swaps": 7350.87
+    },
+    {
+      "size": 831,
+      "algorithm": "Merge Sort",
+      "comparisons": 7030.33,
+      "swaps": 16234.00
+    },
+    {
+      "size": 831,
+      "algorithm": "Quick Sort",
+      "comparisons": 8846.13,
+      "swaps": 4974.53
+    },
+    {
+      "size": 831,
+      "algorithm": "Radix Sort",
+      "comparisons": 3324.00,
+      "swaps": 6648.00
+    },
+    {
+      "size": 841,
+      "algorithm": "Bubble Sort",
+      "comparisons": 353220.00,
+      "swaps": 176080.37
+    },
+    {
+      "size": 841,
+      "algorithm": "Insertion Sort",
+      "comparisons": 176913.63,
+      "swaps": 176080.37
+    },
+    {
+      "size": 841,
+      "algorithm": "Heap Sort",
+      "comparisons": 13804.70,
+      "swaps": 7455.80
+    },
+    {
+      "size": 841,
+      "algorithm": "Merge Sort",
+      "comparisons": 7129.93,
+      "swaps": 16454.00
+    },
+    {
+      "size": 841,
+      "algorithm": "Quick Sort",
+      "comparisons": 8865.10,
+      "swaps": 4945.93
+    },
+    {
+      "size": 841,
+      "algorithm": "Radix Sort",
+      "comparisons": 3364.00,
+      "swaps": 6728.00
+    },
+    {
+      "size": 851,
+      "algorithm": "Bubble Sort",
+      "comparisons": 361675.00,
+      "swaps": 180326.73
+    },
+    {
+      "size": 851,
+      "algorithm": "Insertion Sort",
+      "comparisons": 181169.97,
+      "swaps": 180326.73
+    },
+    {
+      "size": 851,
+      "algorithm": "Heap Sort",
+      "comparisons": 13994.47,
+      "swaps": 7557.80
+    },
+    {
+      "size": 851,
+      "algorithm": "Merge Sort",
+      "comparisons": 7229.00,
+      "swaps": 16674.00
+    },
+    {
+      "size": 851,
+      "algorithm": "Quick Sort",
+      "comparisons": 9112.10,
+      "swaps": 5198.57
+    },
+    {
+      "size": 851,
+      "algorithm": "Radix Sort",
+      "comparisons": 3404.00,
+      "swaps": 6808.00
+    },
+    {
+      "size": 861,
+      "algorithm": "Bubble Sort",
+      "comparisons": 370230.00,
+      "swaps": 184567.43
+    },
+    {
+      "size": 861,
+      "algorithm": "Insertion Sort",
+      "comparisons": 185420.60,
+      "swaps": 184567.43
+    },
+    {
+      "size": 861,
+      "algorithm": "Heap Sort",
+      "comparisons": 14188.17,
+      "swaps": 7661.63
+    },
+    {
+      "size": 861,
+      "algorithm": "Merge Sort",
+      "comparisons": 7321.77,
+      "swaps": 16894.00
+    },
+    {
+      "size": 861,
+      "algorithm": "Quick Sort",
+      "comparisons": 9183.53,
+      "swaps": 5227.57
+    },
+    {
+      "size": 861,
+      "algorithm": "Radix Sort",
+      "comparisons": 3444.00,
+      "swaps": 6888.00
+    },
+    {
+      "size": 871,
+      "algorithm": "Bubble Sort",
+      "comparisons": 378885.00,
+      "swaps": 188790.30
+    },
+    {
+      "size": 871,
+      "algorithm": "Insertion Sort",
+      "comparisons": 189653.47,
+      "swaps": 188790.30
+    },
+    {
+      "size": 871,
+      "algorithm": "Heap Sort",
+      "comparisons": 14373.87,
+      "swaps": 7759.53
+    },
+    {
+      "size": 871,
+      "algorithm": "Merge Sort",
+      "comparisons": 7423.93,
+      "swaps": 17114.00
+    },
+    {
+      "size": 871,
+      "algorithm": "Quick Sort",
+      "comparisons": 9419.07,
+      "swaps": 5330.10
+    },
+    {
+      "size": 871,
+      "algorithm": "Radix Sort",
+      "comparisons": 3484.00,
+      "swaps": 6968.00
+    },
+    {
+      "size": 881,
+      "algorithm": "Bubble Sort",
+      "comparisons": 387640.00,
+      "swaps": 193083.57
+    },
+    {
+      "size": 881,
+      "algorithm": "Insertion Sort",
+      "comparisons": 193956.73,
+      "swaps": 193083.57
+    },
+    {
+      "size": 881,
+      "algorithm": "Heap Sort",
+      "comparisons": 14570.77,
+      "swaps": 7863.77
+    },
+    {
+      "size": 881,
+      "algorithm": "Merge Sort",
+      "comparisons": 7519.70,
+      "swaps": 17334.00
+    },
+    {
+      "size": 881,
+      "algorithm": "Quick Sort",
+      "comparisons": 9347.87,
+      "swaps": 5384.43
+    },
+    {
+      "size": 881,
+      "algorithm": "Radix Sort",
+      "comparisons": 3524.00,
+      "swaps": 7048.00
+    },
+    {
+      "size": 891,
+      "algorithm": "Bubble Sort",
+      "comparisons": 396495.00,
+      "swaps": 197381.80
+    },
+    {
+      "size": 891,
+      "algorithm": "Insertion Sort",
+      "comparisons": 198264.93,
+      "swaps": 197381.80
+    },
+    {
+      "size": 891,
+      "algorithm": "Heap Sort",
+      "comparisons": 14759.93,
+      "swaps": 7968.80
+    },
+    {
+      "size": 891,
+      "algorithm": "Merge Sort",
+      "comparisons": 7623.03,
+      "swaps": 17554.00
+    },
+    {
+      "size": 891,
+      "algorithm": "Quick Sort",
+      "comparisons": 9633.20,
+      "swaps": 5241.47
+    },
+    {
+      "size": 891,
+      "algorithm": "Radix Sort",
+      "comparisons": 3564.00,
+      "swaps": 7128.00
+    },
+    {
+      "size": 901,
+      "algorithm": "Bubble Sort",
+      "comparisons": 405450.00,
+      "swaps": 201797.73
+    },
+    {
+      "size": 901,
+      "algorithm": "Insertion Sort",
+      "comparisons": 202690.87,
+      "swaps": 201797.73
+    },
+    {
+      "size": 901,
+      "algorithm": "Heap Sort",
+      "comparisons": 14949.10,
+      "swaps": 8070.30
+    },
+    {
+      "size": 901,
+      "algorithm": "Merge Sort",
+      "comparisons": 7720.17,
+      "swaps": 17774.00
+    },
+    {
+      "size": 901,
+      "algorithm": "Quick Sort",
+      "comparisons": 9741.40,
+      "swaps": 5559.03
+    },
+    {
+      "size": 901,
+      "algorithm": "Radix Sort",
+      "comparisons": 3604.00,
+      "swaps": 7208.00
+    },
+    {
+      "size": 911,
+      "algorithm": "Bubble Sort",
+      "comparisons": 414505.00,
+      "swaps": 206247.57
+    },
+    {
+      "size": 911,
+      "algorithm": "Insertion Sort",
+      "comparisons": 207150.70,
+      "swaps": 206247.57
+    },
+    {
+      "size": 911,
+      "algorithm": "Heap Sort",
+      "comparisons": 15138.83,
+      "swaps": 8171.93
+    },
+    {
+      "size": 911,
+      "algorithm": "Merge Sort",
+      "comparisons": 7820.47,
+      "swaps": 17994.00
+    },
+    {
+      "size": 911,
+      "algorithm": "Quick Sort",
+      "comparisons": 9717.87,
+      "swaps": 5510.87
+    },
+    {
+      "size": 911,
+      "algorithm": "Radix Sort",
+      "comparisons": 3644.00,
+      "swaps": 7288.00
+    },
+    {
+      "size": 921,
+      "algorithm": "Bubble Sort",
+      "comparisons": 423660.00,
+      "swaps": 210844.83
+    },
+    {
+      "size": 921,
+      "algorithm": "Insertion Sort",
+      "comparisons": 211757.97,
+      "swaps": 210844.83
+    },
+    {
+      "size": 921,
+      "algorithm": "Heap Sort",
+      "comparisons": 15336.00,
+      "swaps": 8275.47
+    },
+    {
+      "size": 921,
+      "algorithm": "Merge Sort",
+      "comparisons": 7918.23,
+      "swaps": 18214.00
+    },
+    {
+      "size": 921,
+      "algorithm": "Quick Sort",
+      "comparisons": 9906.73,
+      "swaps": 5459.13
+    },
+    {
+      "size": 921,
+      "algorithm": "Radix Sort",
+      "comparisons": 3684.00,
+      "swaps": 7368.00
+    },
+    {
+      "size": 931,
+      "algorithm": "Bubble Sort",
+      "comparisons": 432915.00,
+      "swaps": 215510.87
+    },
+    {
+      "size": 931,
+      "algorithm": "Insertion Sort",
+      "comparisons": 216433.93,
+      "swaps": 215510.87
+    },
+    {
+      "size": 931,
+      "algorithm": "Heap Sort",
+      "comparisons": 15533.77,
+      "swaps": 8381.33
+    },
+    {
+      "size": 931,
+      "algorithm": "Merge Sort",
+      "comparisons": 8023.20,
+      "swaps": 18434.00
+    },
+    {
+      "size": 931,
+      "algorithm": "Quick Sort",
+      "comparisons": 10024.47,
+      "swaps": 5689.87
+    },
+    {
+      "size": 931,
+      "algorithm": "Radix Sort",
+      "comparisons": 3724.00,
+      "swaps": 7448.00
+    },
+    {
+      "size": 941,
+      "algorithm": "Bubble Sort",
+      "comparisons": 442270.00,
+      "swaps": 220141.23
+    },
+    {
+      "size": 941,
+      "algorithm": "Insertion Sort",
+      "comparisons": 221074.27,
+      "swaps": 220141.23
+    },
+    {
+      "size": 941,
+      "algorithm": "Heap Sort",
+      "comparisons": 15714.97,
+      "swaps": 8480.90
+    },
+    {
+      "size": 941,
+      "algorithm": "Merge Sort",
+      "comparisons": 8121.47,
+      "swaps": 18654.00
+    },
+    {
+      "size": 941,
+      "algorithm": "Quick Sort",
+      "comparisons": 10245.00,
+      "swaps": 5737.07
+    },
+    {
+      "size": 941,
+      "algorithm": "Radix Sort",
+      "comparisons": 3764.00,
+      "swaps": 7528.00
+    },
+    {
+      "size": 951,
+      "algorithm": "Bubble Sort",
+      "comparisons": 451725.00,
+      "swaps": 225199.90
+    },
+    {
+      "size": 951,
+      "algorithm": "Insertion Sort",
+      "comparisons": 226142.93,
+      "swaps": 225199.90
+    },
+    {
+      "size": 951,
+      "algorithm": "Heap Sort",
+      "comparisons": 15912.70,
+      "swaps": 8585.30
+    },
+    {
+      "size": 951,
+      "algorithm": "Merge Sort",
+      "comparisons": 8218.40,
+      "swaps": 18874.00
+    },
+    {
+      "size": 951,
+      "algorithm": "Quick Sort",
+      "comparisons": 10377.70,
+      "swaps": 5857.03
+    },
+    {
+      "size": 951,
+      "algorithm": "Radix Sort",
+      "comparisons": 3804.00,
+      "swaps": 7608.00
+    },
+    {
+      "size": 961,
+      "algorithm": "Bubble Sort",
+      "comparisons": 461280.00,
+      "swaps": 230087.73
+    },
+    {
+      "size": 961,
+      "algorithm": "Insertion Sort",
+      "comparisons": 231040.73,
+      "swaps": 230087.73
+    },
+    {
+      "size": 961,
+      "algorithm": "Heap Sort",
+      "comparisons": 16104.17,
+      "swaps": 8686.63
+    },
+    {
+      "size": 961,
+      "algorithm": "Merge Sort",
+      "comparisons": 8321.03,
+      "swaps": 19094.00
+    },
+    {
+      "size": 961,
+      "algorithm": "Quick Sort",
+      "comparisons": 10473.70,
+      "swaps": 5933.03
+    },
+    {
+      "size": 961,
+      "algorithm": "Radix Sort",
+      "comparisons": 3844.00,
+      "swaps": 7688.00
+    },
+    {
+      "size": 971,
+      "algorithm": "Bubble Sort",
+      "comparisons": 470935.00,
+      "swaps": 235135.00
+    },
+    {
+      "size": 971,
+      "algorithm": "Insertion Sort",
+      "comparisons": 236259.73,
+      "swaps": 235296.53
+    },
+    {
+      "size": 971,
+      "algorithm": "Heap Sort",
+      "comparisons": 16293.73,
+      "swaps": 8785.97
+    },
+    {
+      "size": 971,
+      "algorithm": "Merge Sort",
+      "comparisons": 8413.50,
+      "swaps": 19314.00
+    },
+    {
+      "size": 971,
+      "algorithm": "Quick Sort",
+      "comparisons": 10456.13,
+      "swaps": 5804.97
+    },
+    {
+      "size": 971,
+      "algorithm": "Radix Sort",
+      "comparisons": 3884.00,
+      "swaps": 7768.00
+    },
+    {
+      "size": 981,
+      "algorithm": "Bubble Sort",
+      "comparisons": 480690.00,
+      "swaps": 240157.10
+    },
+    {
+      "size": 981,
+      "algorithm": "Insertion Sort",
+      "comparisons": 241130.30,
+      "swaps": 240157.10
+    },
+    {
+      "size": 981,
+      "algorithm": "Heap Sort",
+      "comparisons": 16490.67,
+      "swaps": 8893.10
+    },
+    {
+      "size": 981,
+      "algorithm": "Merge Sort",
+      "comparisons": 8516.17,
+      "swaps": 19534.00
+    },
+    {
+      "size": 981,
+      "algorithm": "Quick Sort",
+      "comparisons": 10794.77,
+      "swaps": 6041.33
+    },
+    {
+      "size": 981,
+      "algorithm": "Radix Sort",
+      "comparisons": 3924.00,
+      "swaps": 7848.00
+    },
+    {
+      "size": 991,
+      "algorithm": "Bubble Sort",
+      "comparisons": 490545.00,
+      "swaps": 245013.87
+    },
+    {
+      "size": 991,
+      "algorithm": "Insertion Sort",
+      "comparisons": 245997.07,
+      "swaps": 245013.87
+    },
+    {
+      "size": 991,
+      "algorithm": "Heap Sort",
+      "comparisons": 16681.73,
+      "swaps": 8990.90
+    },
+    {
+      "size": 991,
+      "algorithm": "Merge Sort",
+      "comparisons": 8620.30,
+      "swaps": 19754.00
+    },
+    {
+      "size": 991,
+      "algorithm": "Quick Sort",
+      "comparisons": 11062.67,
+      "swaps": 6083.63
+    },
+    {
+      "size": 991,
+      "algorithm": "Radix Sort",
+      "comparisons": 3964.00,
+      "swaps": 7928.00
+    }
+  ]
+}

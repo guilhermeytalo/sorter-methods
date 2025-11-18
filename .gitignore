@@ -3,9 +3,6 @@
 *.out
 *.exe
 
-# Results
-results/
-
 # Node modules
 node_modules/
 visualization/node_modules/
