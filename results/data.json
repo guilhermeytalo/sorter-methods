@@ -45,31 +45,31 @@
       "size": 11,
       "algorithm": "Bubble Sort",
       "comparisons": 55.00,
-      "swaps": 29.63
+      "swaps": 28.53
     },
     {
       "size": 11,
       "algorithm": "Insertion Sort",
-      "comparisons": 37.33,
-      "swaps": 29.63
+      "comparisons": 36.30,
+      "swaps": 28.53
     },
     {
       "size": 11,
       "algorithm": "Heap Sort",
-      "comparisons": 44.63,
-      "swaps": 29.63
+      "comparisons": 45.23,
+      "swaps": 30.20
     },
     {
       "size": 11,
       "algorithm": "Merge Sort",
-      "comparisons": 25.73,
+      "comparisons": 26.17,
       "swaps": 78.00
     },
     {
       "size": 11,
       "algorithm": "Quick Sort",
-      "comparisons": 28.20,
-      "swaps": 19.50
+      "comparisons": 29.67,
+      "swaps": 21.07
     },
     {
       "size": 11,
@@ -81,31 +81,31 @@
       "size": 21,
       "algorithm": "Bubble Sort",
       "comparisons": 210.00,
-      "swaps": 104.67
+      "swaps": 107.93
     },
     {
       "size": 21,
       "algorithm": "Insertion Sort",
-      "comparisons": 121.80,
-      "swaps": 104.67
+      "comparisons": 125.13,
+      "swaps": 107.93
     },
     {
       "size": 21,
       "algorithm": "Heap Sort",
-      "comparisons": 123.57,
-      "swaps": 77.07
+      "comparisons": 123.30,
+      "swaps": 76.13
     },
     {
       "size": 21,
       "algorithm": "Merge Sort",
-      "comparisons": 67.33,
+      "comparisons": 68.03,
       "swaps": 188.00
     },
     {
       "size": 21,
       "algorithm": "Quick Sort",
-      "comparisons": 76.53,
-      "swaps": 52.80
+      "comparisons": 74.47,
+      "swaps": 52.10
     },
     {
       "size": 21,
@@ -117,31 +117,31 @@
       "size": 31,
       "algorithm": "Bubble Sort",
       "comparisons": 465.00,
-      "swaps": 231.00
+      "swaps": 235.93
     },
     {
       "size": 31,
       "algorithm": "Insertion Sort",
-      "comparisons": 257.80,
-      "swaps": 231.00
+      "comparisons": 262.63,
+      "swaps": 235.93
     },
     {
       "size": 31,
       "algorithm": "Heap Sort",
-      "comparisons": 212.53,
-      "swaps": 128.03
+      "comparisons": 211.90,
+      "swaps": 127.00
     },
     {
       "size": 31,
       "algorithm": "Merge Sort",
-      "comparisons": 115.73,
+      "comparisons": 116.07,
       "swaps": 308.00
     },
     {
       "size": 31,
       "algorithm": "Quick Sort",
-      "comparisons": 135.30,
-      "swaps": 87.53
+      "comparisons": 133.23,
+      "swaps": 88.43
     },
     {
       "size": 31,
@@ -153,31 +153,31 @@
       "size": 41,
       "algorithm": "Bubble Sort",
       "comparisons": 820.00,
-      "swaps": 409.67
+      "swaps": 406.07
     },
     {
       "size": 41,
       "algorithm": "Insertion Sort",
-      "comparisons": 446.07,
-      "swaps": 409.67
+      "comparisons": 442.53,
+      "swaps": 406.07
     },
     {
       "size": 41,
       "algorithm": "Heap Sort",
-      "comparisons": 317.27,
-      "swaps": 186.67
+      "comparisons": 317.77,
+      "swaps": 187.07
     },
     {
       "size": 41,
       "algorithm": "Merge Sort",
-      "comparisons": 169.00,
+      "comparisons": 171.00,
       "swaps": 446.00
     },
     {
       "size": 41,
       "algorithm": "Quick Sort",
-      "comparisons": 196.73,
-      "swaps": 121.43
+      "comparisons": 200.23,
+      "swaps": 128.23
     },
     {
       "size": 41,
@@ -189,31 +189,31 @@
       "size": 51,
       "algorithm": "Bubble Sort",
       "comparisons": 1275.00,
-      "swaps": 637.03
+      "swaps": 634.33
     },
     {
       "size": 51,
       "algorithm": "Insertion Sort",
-      "comparisons": 683.20,
-      "swaps": 637.03
+      "comparisons": 680.60,
+      "swaps": 634.33
     },
     {
       "size": 51,
       "algorithm": "Heap Sort",
-      "comparisons": 427.07,
-      "swaps": 248.10
+      "comparisons": 425.50,
+      "swaps": 248.33
     },
     {
       "size": 51,
       "algorithm": "Merge Sort",
-      "comparisons": 227.97,
+      "comparisons": 227.90,
       "swaps": 586.00
     },
     {
       "size": 51,
       "algorithm": "Quick Sort",
-      "comparisons": 257.87,
-      "swaps": 159.90
+      "comparisons": 272.53,
+      "swaps": 168.83
     },
     {
       "size": 51,
@@ -225,31 +225,31 @@
       "size": 61,
       "algorithm": "Bubble Sort",
       "comparisons": 1830.00,
-      "swaps": 913.07
+      "swaps": 917.67
     },
     {
       "size": 61,
       "algorithm": "Insertion Sort",
-      "comparisons": 968.97,
-      "swaps": 913.07
+      "comparisons": 973.60,
+      "swaps": 917.67
     },
     {
       "size": 61,
       "algorithm": "Heap Sort",
-      "comparisons": 537.33,
-      "swaps": 310.17
+      "comparisons": 537.70,
+      "swaps": 310.80
     },
     {
       "size": 61,
       "algorithm": "Merge Sort",
-      "comparisons": 285.93,
+      "comparisons": 286.77,
       "swaps": 726.00
     },
     {
       "size": 61,
       "algorithm": "Quick Sort",
-      "comparisons": 343.83,
-      "swaps": 214.13
+      "comparisons": 329.50,
+      "swaps": 202.83
     },
     {
       "size": 61,
@@ -261,31 +261,31 @@
       "size": 71,
       "algorithm": "Bubble Sort",
       "comparisons": 2485.00,
-      "swaps": 1259.90
+      "swaps": 1255.33
     },
     {
       "size": 71,
       "algorithm": "Insertion Sort",
-      "comparisons": 1325.70,
-      "swaps": 1259.90
+      "comparisons": 1321.20,
+      "swaps": 1255.33
     },
     {
       "size": 71,
       "algorithm": "Heap Sort",
-      "comparisons": 659.40,
-      "swaps": 376.90
+      "comparisons": 656.77,
+      "swaps": 377.23
     },
     {
       "size": 71,
       "algorithm": "Merge Sort",
-      "comparisons": 349.83,
+      "comparisons": 349.57,
       "swaps": 880.00
     },
     {
       "size": 71,
       "algorithm": "Quick Sort",
-      "comparisons": 416.50,
-      "swaps": 246.07
+      "comparisons": 404.63,
+      "swaps": 245.97
     },
     {
       "size": 71,
@@ -297,31 +297,31 @@
       "size": 81,
       "algorithm": "Bubble Sort",
       "comparisons": 3240.00,
-      "swaps": 1644.77
+      "swaps": 1623.07
     },
     {
       "size": 81,
       "algorithm": "Insertion Sort",
-      "comparisons": 1720.37,
-      "swaps": 1644.77
+      "comparisons": 1698.73,
+      "swaps": 1623.07
     },
     {
       "size": 81,
       "algorithm": "Heap Sort",
-      "comparisons": 783.20,
-      "swaps": 446.03
+      "comparisons": 784.97,
+      "swaps": 446.77
     },
     {
       "size": 81,
       "algorithm": "Merge Sort",
-      "comparisons": 413.00,
+      "comparisons": 414.67,
       "swaps": 1040.00
     },
     {
       "size": 81,
       "algorithm": "Quick Sort",
-      "comparisons": 486.50,
-      "swaps": 288.63
+      "comparisons": 499.97,
+      "swaps": 300.90
     },
     {
       "size": 81,
@@ -333,31 +333,31 @@
       "size": 91,
       "algorithm": "Bubble Sort",
       "comparisons": 4095.00,
-      "swaps": 2061.57
+      "swaps": 2028.20
     },
     {
       "size": 91,
       "algorithm": "Insertion Sort",
-      "comparisons": 2147.10,
-      "swaps": 2061.57
+      "comparisons": 2113.77,
+      "swaps": 2028.20
     },
     {
       "size": 91,
       "algorithm": "Heap Sort",
-      "comparisons": 911.20,
-      "swaps": 517.23
+      "comparisons": 910.07,
+      "swaps": 515.20
     },
     {
       "size": 91,
       "algorithm": "Merge Sort",
-      "comparisons": 480.80,
+      "comparisons": 479.47,
       "swaps": 1200.00
     },
     {
       "size": 91,
       "algorithm": "Quick Sort",
-      "comparisons": 579.53,
-      "swaps": 355.23
+      "comparisons": 566.00,
+      "swaps": 345.13
     },
     {
       "size": 91,
@@ -369,31 +369,31 @@
       "size": 101,
       "algorithm": "Bubble Sort",
       "comparisons": 5050.00,
-      "swaps": 2508.73
+      "swaps": 2521.67
     },
     {
       "size": 101,
       "algorithm": "Insertion Sort",
-      "comparisons": 2604.27,
-      "swaps": 2508.73
+      "comparisons": 2617.17,
+      "swaps": 2521.67
     },
     {
       "size": 101,
       "algorithm": "Heap Sort",
-      "comparisons": 1038.50,
-      "swaps": 586.10
+      "comparisons": 1042.30,
+      "swaps": 587.80
     },
     {
       "size": 101,
       "algorithm": "Merge Sort",
-      "comparisons": 547.37,
+      "comparisons": 548.27,
       "swaps": 1360.00
     },
     {
       "size": 101,
       "algorithm": "Quick Sort",
-      "comparisons": 652.27,
-      "swaps": 402.07
+      "comparisons": 682.30,
+      "swaps": 405.20
     },
     {
       "size": 101,
@@ -405,31 +405,31 @@
       "size": 111,
       "algorithm": "Bubble Sort",
       "comparisons": 6105.00,
-      "swaps": 3040.27
+      "swaps": 3051.10
     },
     {
       "size": 111,
       "algorithm": "Insertion Sort",
-      "comparisons": 3145.63,
-      "swaps": 3040.27
+      "comparisons": 3156.37,
+      "swaps": 3051.10
     },
     {
       "size": 111,
       "algorithm": "Heap Sort",
-      "comparisons": 1171.07,
-      "swaps": 659.80
+      "comparisons": 1170.83,
+      "swaps": 659.27
     },
     {
       "size": 111,
       "algorithm": "Merge Sort",
-      "comparisons": 616.33,
+      "comparisons": 618.50,
       "swaps": 1520.00
     },
     {
       "size": 111,
       "algorithm": "Quick Sort",
-      "comparisons": 740.97,
-      "swaps": 445.53
+      "comparisons": 733.73,
+      "swaps": 453.27
     },
     {
       "size": 111,
@@ -441,31 +441,31 @@
       "size": 121,
       "algorithm": "Bubble Sort",
       "comparisons": 7260.00,
-      "swaps": 3615.77
+      "swaps": 3580.53
     },
     {
       "size": 121,
       "algorithm": "Insertion Sort",
-      "comparisons": 3731.03,
-      "swaps": 3615.77
+      "comparisons": 3695.67,
+      "swaps": 3580.53
     },
     {
       "size": 121,
       "algorithm": "Heap Sort",
-      "comparisons": 1303.97,
-      "swaps": 732.70
+      "comparisons": 1303.90,
+      "swaps": 731.97
     },
     {
       "size": 121,
       "algorithm": "Merge Sort",
-      "comparisons": 685.03,
+      "comparisons": 687.53,
       "swaps": 1680.00
     },
     {
       "size": 121,
       "algorithm": "Quick Sort",
-      "comparisons": 808.03,
-      "swaps": 497.43
+      "comparisons": 858.53,
+      "swaps": 524.47
     },
     {
       "size": 121,
@@ -477,31 +477,31 @@
       "size": 131,
       "algorithm": "Bubble Sort",
       "comparisons": 8515.00,
-      "swaps": 4238.70
+      "swaps": 4202.43
     },
     {
       "size": 131,
       "algorithm": "Insertion Sort",
-      "comparisons": 4363.87,
-      "swaps": 4238.70
+      "comparisons": 4327.50,
+      "swaps": 4202.43
     },
     {
       "size": 131,
       "algorithm": "Heap Sort",
-      "comparisons": 1439.83,
-      "swaps": 808.20
+      "comparisons": 1439.60,
+      "swaps": 807.87
     },
     {
       "size": 131,
       "algorithm": "Merge Sort",
-      "comparisons": 756.70,
+      "comparisons": 757.90,
       "swaps": 1846.00
     },
     {
       "size": 131,
       "algorithm": "Quick Sort",
-      "comparisons": 915.73,
-      "swaps": 538.30
+      "comparisons": 914.73,
+      "swaps": 548.07
     },
     {
       "size": 131,
@@ -513,31 +513,31 @@
       "size": 141,
       "algorithm": "Bubble Sort",
       "comparisons": 9870.00,
-      "swaps": 4893.00
+      "swaps": 4876.37
     },
     {
       "size": 141,
       "algorithm": "Insertion Sort",
-      "comparisons": 5028.10,
-      "swaps": 4893.00
+      "comparisons": 5011.40,
+      "swaps": 4876.37
     },
     {
       "size": 141,
       "algorithm": "Heap Sort",
-      "comparisons": 1584.80,
-      "swaps": 888.13
+      "comparisons": 1583.10,
+      "swaps": 885.30
     },
     {
       "size": 141,
       "algorithm": "Merge Sort",
-      "comparisons": 833.20,
+      "comparisons": 832.33,
       "swaps": 2026.00
     },
     {
       "size": 141,
       "algorithm": "Quick Sort",
-      "comparisons": 1006.40,
-      "swaps": 610.33
+      "comparisons": 1006.73,
+      "swaps": 592.07
     },
     {
       "size": 141,
@@ -549,31 +549,31 @@
       "size": 151,
       "algorithm": "Bubble Sort",
       "comparisons": 11325.00,
-      "swaps": 5605.20
+      "swaps": 5602.23
     },
     {
       "size": 151,
       "algorithm": "Insertion Sort",
-      "comparisons": 5750.13,
-      "swaps": 5605.20
+      "comparisons": 5747.20,
+      "swaps": 5602.23
     },
     {
       "size": 151,
       "algorithm": "Heap Sort",
-      "comparisons": 1727.67,
-      "swaps": 966.37
+      "comparisons": 1727.07,
+      "swaps": 964.10
     },
     {
       "size": 151,
       "algorithm": "Merge Sort",
-      "comparisons": 907.90,
+      "comparisons": 907.77,
       "swaps": 2206.00
     },
     {
       "size": 151,
       "algorithm": "Quick Sort",
-      "comparisons": 1133.37,
-      "swaps": 660.60
+      "comparisons": 1088.47,
+      "swaps": 655.43
     },
     {
       "size": 151,
@@ -585,31 +585,31 @@
       "size": 161,
       "algorithm": "Bubble Sort",
       "comparisons": 12880.00,
-      "swaps": 6385.47
+      "swaps": 6342.00
     },
     {
       "size": 161,
       "algorithm": "Insertion Sort",
-      "comparisons": 6540.33,
-      "swaps": 6385.47
+      "comparisons": 6496.97,
+      "swaps": 6342.00
     },
     {
       "size": 161,
       "algorithm": "Heap Sort",
-      "comparisons": 1877.60,
-      "swaps": 1048.10
+      "comparisons": 1874.67,
+      "swaps": 1044.27
     },
     {
       "size": 161,
       "algorithm": "Merge Sort",
-      "comparisons": 981.90,
+      "comparisons": 983.67,
       "swaps": 2386.00
     },
     {
       "size": 161,
       "algorithm": "Quick Sort",
-      "comparisons": 1200.93,
-      "swaps": 695.53
+      "comparisons": 1166.50,
+      "swaps": 711.43
     },
     {
       "size": 161,
@@ -621,31 +621,31 @@
       "size": 171,
       "algorithm": "Bubble Sort",
       "comparisons": 14535.00,
-      "swaps": 7214.87
+      "swaps": 7169.43
     },
     {
       "size": 171,
       "algorithm": "Insertion Sort",
-      "comparisons": 7379.70,
-      "swaps": 7214.87
+      "comparisons": 7334.33,
+      "swaps": 7169.43
     },
     {
       "size": 171,
       "algorithm": "Heap Sort",
-      "comparisons": 2023.47,
-      "swaps": 1127.27
+      "comparisons": 2022.90,
+      "swaps": 1124.53
     },
     {
       "size": 171,
       "algorithm": "Merge Sort",
-      "comparisons": 1058.67,
+      "comparisons": 1058.83,
       "swaps": 2566.00
     },
     {
       "size": 171,
       "algorithm": "Quick Sort",
-      "comparisons": 1261.70,
-      "swaps": 739.00
+      "comparisons": 1270.83,
+      "swaps": 731.00
     },
     {
       "size": 171,
@@ -657,31 +657,31 @@
       "size": 181,
       "algorithm": "Bubble Sort",
       "comparisons": 16290.00,
-      "swaps": 8039.83
+      "swaps": 8051.53
     },
     {
       "size": 181,
       "algorithm": "Insertion Sort",
-      "comparisons": 8214.67,
-      "swaps": 8039.83
+      "comparisons": 8226.43,
+      "swaps": 8051.53
     },
     {
       "size": 181,
       "algorithm": "Heap Sort",
-      "comparisons": 2168.77,
-      "swaps": 1206.63
+      "comparisons": 2169.17,
+      "swaps": 1203.40
     },
     {
       "size": 181,
       "algorithm": "Merge Sort",
-      "comparisons": 1134.17,
+      "comparisons": 1134.47,
       "swaps": 2746.00
     },
     {
       "size": 181,
       "algorithm": "Quick Sort",
-      "comparisons": 1390.20,
-      "swaps": 794.13
+      "comparisons": 1363.67,
+      "swaps": 791.80
     },
     {
       "size": 181,
@@ -693,31 +693,31 @@
       "size": 191,
       "algorithm": "Bubble Sort",
       "comparisons": 18145.00,
-      "swaps": 9012.03
+      "swaps": 8944.10
     },
     {
       "size": 191,
       "algorithm": "Insertion Sort",
-      "comparisons": 9196.73,
-      "swaps": 9012.03
+      "comparisons": 9128.90,
+      "swaps": 8944.10
     },
     {
       "size": 191,
       "algorithm": "Heap Sort",
-      "comparisons": 2317.53,
-      "swaps": 1286.53
+      "comparisons": 2319.50,
+      "swaps": 1286.13
     },
     {
       "size": 191,
       "algorithm": "Merge Sort",
-      "comparisons": 1211.07,
+      "comparisons": 1214.03,
       "swaps": 2926.00
     },
     {
       "size": 191,
       "algorithm": "Quick Sort",
-      "comparisons": 1478.27,
-      "swaps": 863.80
+      "comparisons": 1494.37,
+      "swaps": 850.03
     },
     {
       "size": 191,
@@ -729,31 +729,31 @@
       "size": 201,
       "algorithm": "Bubble Sort",
       "comparisons": 20100.00,
-      "swaps": 9989.53
+      "swaps": 9913.43
     },
     {
       "size": 201,
       "algorithm": "Insertion Sort",
-      "comparisons": 10184.20,
-      "swaps": 9989.53
+      "comparisons": 10108.23,
+      "swaps": 9913.43
     },
     {
       "size": 201,
       "algorithm": "Heap Sort",
-      "comparisons": 2471.33,
-      "swaps": 1371.40
+      "comparisons": 2474.10,
+      "swaps": 1371.37
     },
     {
       "size": 201,
       "algorithm": "Merge Sort",
-      "comparisons": 1286.53,
+      "comparisons": 1289.77,
       "swaps": 3106.00
     },
     {
       "size": 201,
       "algorithm": "Quick Sort",
-      "comparisons": 1554.10,
-      "swaps": 917.20
+      "comparisons": 1597.37,
+      "swaps": 966.67
     },
     {
       "size": 201,
@@ -765,31 +765,31 @@
       "size": 211,
       "algorithm": "Bubble Sort",
       "comparisons": 22155.00,
-      "swaps": 11046.30
+      "swaps": 10930.87
     },
     {
       "size": 211,
       "algorithm": "Insertion Sort",
-      "comparisons": 11250.87,
-      "swaps": 11046.30
+      "comparisons": 11135.57,
+      "swaps": 10930.87
     },
     {
       "size": 211,
       "algorithm": "Heap Sort",
-      "comparisons": 2621.60,
-      "swaps": 1450.97
+      "comparisons": 2620.93,
+      "swaps": 1451.03
     },
     {
       "size": 211,
       "algorithm": "Merge Sort",
-      "comparisons": 1367.77,
+      "comparisons": 1370.63,
       "swaps": 3286.00
     },
     {
       "size": 211,
       "algorithm": "Quick Sort",
-      "comparisons": 1651.27,
-      "swaps": 963.67
+      "comparisons": 1660.80,
+      "swaps": 957.50
     },
     {
       "size": 211,
@@ -801,31 +801,31 @@
       "size": 221,
       "algorithm": "Bubble Sort",
       "comparisons": 24310.00,
-      "swaps": 12177.03
+      "swaps": 12082.07
     },
     {
       "size": 221,
       "algorithm": "Insertion Sort",
-      "comparisons": 12391.60,
-      "swaps": 12177.03
+      "comparisons": 12296.70,
+      "swaps": 12082.07
     },
     {
       "size": 221,
       "algorithm": "Heap Sort",
-      "comparisons": 2773.13,
-      "swaps": 1533.83
+      "comparisons": 2771.83,
+      "swaps": 1532.20
     },
     {
       "size": 221,
       "algorithm": "Merge Sort",
-      "comparisons": 1446.63,
+      "comparisons": 1448.80,
       "swaps": 3466.00
     },
     {
       "size": 221,
       "algorithm": "Quick Sort",
-      "comparisons": 1753.83,
-      "swaps": 1027.60
+      "comparisons": 1763.63,
+      "swaps": 1016.47
     },
     {
       "size": 221,
@@ -837,31 +837,31 @@
       "size": 231,
       "algorithm": "Bubble Sort",
       "comparisons": 26565.00,
-      "swaps": 13220.20
+      "swaps": 13186.50
     },
     {
       "size": 231,
       "algorithm": "Insertion Sort",
-      "comparisons": 13444.73,
-      "swaps": 13220.20
+      "comparisons": 13411.13,
+      "swaps": 13186.50
     },
     {
       "size": 231,
       "algorithm": "Heap Sort",
-      "comparisons": 2924.17,
-      "swaps": 1617.20
+      "comparisons": 2922.43,
+      "swaps": 1614.33
     },
     {
       "size": 231,
       "algorithm": "Merge Sort",
-      "comparisons": 1526.40,
+      "comparisons": 1527.47,
       "swaps": 3646.00
     },
     {
       "size": 231,
       "algorithm": "Quick Sort",
-      "comparisons": 1900.40,
-      "swaps": 1100.67
+      "comparisons": 1891.83,
+      "swaps": 1123.87
     },
     {
       "size": 231,
@@ -873,31 +873,31 @@
       "size": 241,
       "algorithm": "Bubble Sort",
       "comparisons": 28920.00,
-      "swaps": 14392.60
+      "swaps": 14374.40
     },
     {
       "size": 241,
       "algorithm": "Insertion Sort",
-      "comparisons": 14627.10,
-      "swaps": 14392.60
+      "comparisons": 14608.97,
+      "swaps": 14374.40
     },
     {
       "size": 241,
       "algorithm": "Heap Sort",
-      "comparisons": 3078.47,
-      "swaps": 1700.50
+      "comparisons": 3073.73,
+      "swaps": 1696.23
     },
     {
       "size": 241,
       "algorithm": "Merge Sort",
-      "comparisons": 1603.50,
+      "comparisons": 1606.80,
       "swaps": 3826.00
     },
     {
       "size": 241,
       "algorithm": "Quick Sort",
-      "comparisons": 1941.50,
-      "swaps": 1158.47
+      "comparisons": 1968.47,
+      "swaps": 1165.87
     },
     {
       "size": 241,
@@ -909,31 +909,31 @@
       "size": 251,
       "algorithm": "Bubble Sort",
       "comparisons": 31375.00,
-      "swaps": 15605.33
+      "swaps": 15594.10
     },
     {
       "size": 251,
       "algorithm": "Insertion Sort",
-      "comparisons": 15849.83,
-      "swaps": 15605.33
+      "comparisons": 15838.67,
+      "swaps": 15594.10
     },
     {
       "size": 251,
       "algorithm": "Heap Sort",
-      "comparisons": 3229.07,
-      "swaps": 1782.83
+      "comparisons": 3225.50,
+      "swaps": 1778.73
     },
     {
       "size": 251,
       "algorithm": "Merge Sort",
-      "comparisons": 1685.50,
+      "comparisons": 1685.87,
       "swaps": 4006.00
     },
     {
       "size": 251,
       "algorithm": "Quick Sort",
-      "comparisons": 2061.30,
-      "swaps": 1202.07
+      "comparisons": 2108.30,
+      "swaps": 1238.17
     },
     {
       "size": 251,
@@ -945,31 +945,31 @@
       "size": 261,
       "algorithm": "Bubble Sort",
       "comparisons": 33930.00,
-      "swaps": 16852.60
+      "swaps": 16870.60
     },
     {
       "size": 261,
       "algorithm": "Insertion Sort",
-      "comparisons": 17107.07,
-      "swaps": 16852.60
+      "comparisons": 17125.13,
+      "swaps": 16870.60
     },
     {
       "size": 261,
       "algorithm": "Heap Sort",
       "comparisons": 3389.73,
-      "swaps": 1867.77
+      "swaps": 1868.27
     },
     {
       "size": 261,
       "algorithm": "Merge Sort",
-      "comparisons": 1764.93,
+      "comparisons": 1768.83,
       "swaps": 4196.00
     },
     {
       "size": 261,
       "algorithm": "Quick Sort",
-      "comparisons": 2159.23,
-      "swaps": 1272.57
+      "comparisons": 2201.90,
+      "swaps": 1257.67
     },
     {
       "size": 261,
@@ -981,31 +981,31 @@
       "size": 271,
       "algorithm": "Bubble Sort",
       "comparisons": 36585.00,
-      "swaps": 18211.77
+      "swaps": 18127.13
     },
     {
       "size": 271,
       "algorithm": "Insertion Sort",
-      "comparisons": 18476.23,
-      "swaps": 18211.77
+      "comparisons": 18391.63,
+      "swaps": 18127.13
     },
     {
       "size": 271,
       "algorithm": "Heap Sort",
-      "comparisons": 3550.80,
-      "swaps": 1955.33
+      "comparisons": 3548.33,
+      "swaps": 1954.93
     },
     {
       "size": 271,
       "algorithm": "Merge Sort",
-      "comparisons": 1850.53,
+      "comparisons": 1849.23,
       "swaps": 4396.00
     },
     {
       "size": 271,
       "algorithm": "Quick Sort",
-      "comparisons": 2241.00,
-      "swaps": 1322.70
+      "comparisons": 2330.63,
+      "swaps": 1382.23
     },
     {
       "size": 271,
@@ -1017,31 +1017,31 @@
       "size": 281,
       "algorithm": "Bubble Sort",
       "comparisons": 39340.00,
-      "swaps": 19619.20
+      "swaps": 19501.37
     },
     {
       "size": 281,
       "algorithm": "Insertion Sort",
-      "comparisons": 19893.63,
-      "swaps": 19619.20
+      "comparisons": 19775.87,
+      "swaps": 19501.37
     },
     {
       "size": 281,
       "algorithm": "Heap Sort",
-      "comparisons": 3712.90,
-      "swaps": 2043.40
+      "comparisons": 3714.33,
+      "swaps": 2043.50
     },
     {
       "size": 281,
       "algorithm": "Merge Sort",
-      "comparisons": 1937.70,
+      "comparisons": 1937.83,
       "swaps": 4596.00
     },
     {
       "size": 281,
       "algorithm": "Quick Sort",
-      "comparisons": 2358.83,
-      "swaps": 1321.70
+      "comparisons": 2365.53,
+      "swaps": 1356.70
     },
     {
       "size": 281,
@@ -1053,31 +1053,31 @@
       "size": 291,
       "algorithm": "Bubble Sort",
       "comparisons": 42195.00,
-      "swaps": 21054.30
+      "swaps": 20891.07
     },
     {
       "size": 291,
       "algorithm": "Insertion Sort",
-      "comparisons": 21338.73,
-      "swaps": 21054.30
+      "comparisons": 21175.57,
+      "swaps": 20891.07
     },
     {
       "size": 291,
       "algorithm": "Heap Sort",
-      "comparisons": 3877.23,
-      "swaps": 2133.30
+      "comparisons": 3877.70,
+      "swaps": 2132.90
     },
     {
       "size": 291,
       "algorithm": "Merge Sort",
-      "comparisons": 2019.53,
+      "comparisons": 2023.00,
       "swaps": 4796.00
     },
     {
       "size": 291,
       "algorithm": "Quick Sort",
-      "comparisons": 2474.63,
-      "swaps": 1419.20
+      "comparisons": 2481.10,
+      "swaps": 1422.13
     },
     {
       "size": 291,
@@ -1089,31 +1089,31 @@
       "size": 301,
       "algorithm": "Bubble Sort",
       "comparisons": 45150.00,
-      "swaps": 22614.90
+      "swaps": 22306.63
     },
     {
       "size": 301,
       "algorithm": "Insertion Sort",
-      "comparisons": 22909.27,
-      "swaps": 22614.90
+      "comparisons": 22601.13,
+      "swaps": 22306.63
     },
     {
       "size": 301,
       "algorithm": "Heap Sort",
-      "comparisons": 4039.40,
-      "swaps": 2217.53
+      "comparisons": 4044.87,
+      "swaps": 2223.33
     },
     {
       "size": 301,
       "algorithm": "Merge Sort",
-      "comparisons": 2107.33,
+      "comparisons": 2107.53,
       "swaps": 4996.00
     },
     {
       "size": 301,
       "algorithm": "Quick Sort",
-      "comparisons": 2595.43,
-      "swaps": 1525.83
+      "comparisons": 2569.47,
+      "swaps": 1489.63
     },
     {
       "size": 301,
@@ -1125,31 +1125,31 @@
       "size": 311,
       "algorithm": "Bubble Sort",
       "comparisons": 48205.00,
-      "swaps": 24149.40
+      "swaps": 23851.77
     },
     {
       "size": 311,
       "algorithm": "Insertion Sort",
-      "comparisons": 24453.77,
-      "swaps": 24149.40
+      "comparisons": 24156.27,
+      "swaps": 23851.77
     },
     {
       "size": 311,
       "algorithm": "Heap Sort",
-      "comparisons": 4206.10,
-      "swaps": 2305.00
+      "comparisons": 4213.47,
+      "swaps": 2313.73
     },
     {
       "size": 311,
       "algorithm": "Merge Sort",
-      "comparisons": 2188.57,
+      "comparisons": 2191.47,
       "swaps": 5196.00
     },
     {
       "size": 311,
       "algorithm": "Quick Sort",
-      "comparisons": 2656.00,
-      "swaps": 1547.57
+      "comparisons": 2685.80,
+      "swaps": 1555.27
     },
     {
       "size": 311,
@@ -1161,31 +1161,31 @@
       "size": 321,
       "algorithm": "Bubble Sort",
       "comparisons": 51360.00,
-      "swaps": 25773.63
+      "swaps": 25384.63
     },
     {
       "size": 321,
       "algorithm": "Insertion Sort",
-      "comparisons": 26087.97,
-      "swaps": 25773.63
+      "comparisons": 25699.10,
+      "swaps": 25384.63
     },
     {
       "size": 321,
       "algorithm": "Heap Sort",
-      "comparisons": 4372.60,
-      "swaps": 2398.83
+      "comparisons": 4377.20,
+      "swaps": 2402.87
     },
     {
       "size": 321,
       "algorithm": "Merge Sort",
-      "comparisons": 2277.07,
+      "comparisons": 2277.43,
       "swaps": 5396.00
     },
     {
       "size": 321,
       "algorithm": "Quick Sort",
-      "comparisons": 2763.43,
-      "swaps": 1565.23
+      "comparisons": 2856.07,
+      "swaps": 1686.07
     },
     {
       "size": 321,
@@ -1197,31 +1197,31 @@
       "size": 331,
       "algorithm": "Bubble Sort",
       "comparisons": 54615.00,
-      "swaps": 27362.73
+      "swaps": 26960.53
     },
     {
       "size": 331,
       "algorithm": "Insertion Sort",
-      "comparisons": 27687.03,
-      "swaps": 27362.73
+      "comparisons": 27285.00,
+      "swaps": 26960.53
     },
     {
       "size": 331,
       "algorithm": "Heap Sort",
-      "comparisons": 4543.63,
-      "swaps": 2491.43
+      "comparisons": 4543.03,
+      "swaps": 2491.23
     },
     {
       "size": 331,
       "algorithm": "Merge Sort",
-      "comparisons": 2359.27,
+      "comparisons": 2360.80,
       "swaps": 5596.00
     },
     {
       "size": 331,
       "algorithm": "Quick Sort",
-      "comparisons": 2925.50,
-      "swaps": 1652.90
+      "comparisons": 2939.60,
+      "swaps": 1697.83
     },
     {
       "size": 331,
@@ -1233,31 +1233,31 @@
       "size": 341,
       "algorithm": "Bubble Sort",
       "comparisons": 57970.00,
-      "swaps": 28996.33
+      "swaps": 28650.83
     },
     {
       "size": 341,
       "algorithm": "Insertion Sort",
-      "comparisons": 29330.60,
-      "swaps": 28996.33
+      "comparisons": 28985.27,
+      "swaps": 28650.83
     },
     {
       "size": 341,
       "algorithm": "Heap Sort",
-      "comparisons": 4708.03,
-      "swaps": 2579.73
+      "comparisons": 4710.30,
+      "swaps": 2580.53
     },
     {
       "size": 341,
       "algorithm": "Merge Sort",
-      "comparisons": 2448.10,
+      "comparisons": 2448.20,
       "swaps": 5796.00
     },
     {
       "size": 341,
       "algorithm": "Quick Sort",
-      "comparisons": 2944.17,
-      "swaps": 1734.97
+      "comparisons": 3070.70,
+      "swaps": 1741.80
     },
     {
       "size": 341,
@@ -1269,31 +1269,31 @@
       "size": 351,
       "algorithm": "Bubble Sort",
       "comparisons": 61425.00,
-      "swaps": 30775.40
+      "swaps": 30381.13
     },
     {
       "size": 351,
       "algorithm": "Insertion Sort",
-      "comparisons": 31119.67,
-      "swaps": 30775.40
+      "comparisons": 30725.50,
+      "swaps": 30381.13
     },
     {
       "size": 351,
       "algorithm": "Heap Sort",
-      "comparisons": 4879.13,
-      "swaps": 2673.27
+      "comparisons": 4877.93,
+      "swaps": 2670.93
     },
     {
       "size": 351,
       "algorithm": "Merge Sort",
-      "comparisons": 2535.93,
+      "comparisons": 2534.13,
       "swaps": 5996.00
     },
     {
       "size": 351,
       "algorithm": "Quick Sort",
-      "comparisons": 3110.50,
-      "swaps": 1769.17
+      "comparisons": 3111.00,
+      "swaps": 1747.03
     },
     {
       "size": 351,
@@ -1305,31 +1305,31 @@
       "size": 361,
       "algorithm": "Bubble Sort",
       "comparisons": 64980.00,
-      "swaps": 32567.83
+      "swaps": 32142.20
     },
     {
       "size": 361,
       "algorithm": "Insertion Sort",
-      "comparisons": 32922.00,
-      "swaps": 32567.83
+      "comparisons": 32496.53,
+      "swaps": 32142.20
     },
     {
       "size": 361,
       "algorithm": "Heap Sort",
-      "comparisons": 5046.90,
-      "swaps": 2758.30
+      "comparisons": 5046.47,
+      "swaps": 2761.33
     },
     {
       "size": 361,
       "algorithm": "Merge Sort",
-      "comparisons": 2619.13,
+      "comparisons": 2620.43,
       "swaps": 6196.00
     },
     {
       "size": 361,
       "algorithm": "Quick Sort",
-      "comparisons": 3218.87,
-      "swaps": 1816.43
+      "comparisons": 3186.23,
+      "swaps": 1812.10
     },
     {
       "size": 361,
@@ -1341,31 +1341,31 @@
       "size": 371,
       "algorithm": "Bubble Sort",
       "comparisons": 68635.00,
-      "swaps": 34479.27
+      "swaps": 33894.90
     },
     {
       "size": 371,
       "algorithm": "Insertion Sort",
-      "comparisons": 34843.33,
-      "swaps": 34479.27
+      "comparisons": 34259.17,
+      "swaps": 33894.90
     },
     {
       "size": 371,
       "algorithm": "Heap Sort",
-      "comparisons": 5215.70,
-      "swaps": 2852.57
+      "comparisons": 5215.87,
+      "swaps": 2852.97
     },
     {
       "size": 371,
       "algorithm": "Merge Sort",
-      "comparisons": 2703.97,
+      "comparisons": 2707.93,
       "swaps": 6396.00
     },
     {
       "size": 371,
       "algorithm": "Quick Sort",
-      "comparisons": 3322.00,
-      "swaps": 1849.60
+      "comparisons": 3386.83,
+      "swaps": 1921.00
     },
     {
       "size": 371,
@@ -1377,31 +1377,31 @@
       "size": 381,
       "algorithm": "Bubble Sort",
       "comparisons": 72390.00,
-      "swaps": 36545.53
+      "swaps": 35761.07
     },
     {
       "size": 381,
       "algorithm": "Insertion Sort",
-      "comparisons": 36919.60,
-      "swaps": 36545.53
+      "comparisons": 36135.33,
+      "swaps": 35761.07
     },
     {
       "size": 381,
       "algorithm": "Heap Sort",
-      "comparisons": 5382.87,
-      "swaps": 2943.17
+      "comparisons": 5383.87,
+      "swaps": 2941.20
     },
     {
       "size": 381,
       "algorithm": "Merge Sort",
-      "comparisons": 2792.50,
+      "comparisons": 2798.33,
       "swaps": 6596.00
     },
     {
       "size": 381,
       "algorithm": "Quick Sort",
-      "comparisons": 3509.17,
-      "swaps": 1941.10
+      "comparisons": 3473.97,
+      "swaps": 1984.87
     },
     {
       "size": 381,
@@ -1413,31 +1413,31 @@
       "size": 391,
       "algorithm": "Bubble Sort",
       "comparisons": 76245.00,
-      "swaps": 38582.93
+      "swaps": 37772.67
     },
     {
       "size": 391,
       "algorithm": "Insertion Sort",
-      "comparisons": 38967.00,
-      "swaps": 38582.93
+      "comparisons": 38156.90,
+      "swaps": 37772.67
     },
     {
       "size": 391,
       "algorithm": "Heap Sort",
-      "comparisons": 5553.17,
-      "swaps": 3032.30
+      "comparisons": 5558.67,
+      "swaps": 3040.10
     },
     {
       "size": 391,
       "algorithm": "Merge Sort",
-      "comparisons": 2878.30,
+      "comparisons": 2883.37,
       "swaps": 6796.00
     },
     {
       "size": 391,
       "algorithm": "Quick Sort",
-      "comparisons": 3556.37,
-      "swaps": 2019.57
+      "comparisons": 3588.77,
+      "swaps": 2037.77
     },
     {
       "size": 391,
@@ -1449,31 +1449,31 @@
       "size": 401,
       "algorithm": "Bubble Sort",
       "comparisons": 80200.00,
-      "swaps": 40558.37
+      "swaps": 39721.30
     },
     {
       "size": 401,
       "algorithm": "Insertion Sort",
-      "comparisons": 40952.40,
-      "swaps": 40558.37
+      "comparisons": 40115.50,
+      "swaps": 39721.30
     },
     {
       "size": 401,
       "algorithm": "Heap Sort",
-      "comparisons": 5727.47,
-      "swaps": 3127.83
+      "comparisons": 5727.57,
+      "swaps": 3128.27
     },
     {
       "size": 401,
       "algorithm": "Merge Sort",
-      "comparisons": 2968.33,
+      "comparisons": 2972.03,
       "swaps": 6996.00
     },
     {
       "size": 401,
       "algorithm": "Quick Sort",
-      "comparisons": 3678.17,
-      "swaps": 2040.63
+      "comparisons": 3735.43,
+      "swaps": 2138.77
     },
     {
       "size": 401,
@@ -1485,31 +1485,31 @@
       "size": 411,
       "algorithm": "Bubble Sort",
       "comparisons": 84255.00,
-      "swaps": 42651.33
+      "swaps": 41619.93
     },
     {
       "size": 411,
       "algorithm": "Insertion Sort",
-      "comparisons": 43055.27,
-      "swaps": 42651.33
+      "comparisons": 42024.10,
+      "swaps": 41619.93
     },
     {
       "size": 411,
       "algorithm": "Heap Sort",
-      "comparisons": 5896.10,
-      "swaps": 3217.87
+      "comparisons": 5898.50,
+      "swaps": 3219.13
     },
     {
       "size": 411,
       "algorithm": "Merge Sort",
-      "comparisons": 3058.07,
+      "comparisons": 3059.23,
       "swaps": 7196.00
     },
     {
       "size": 411,
       "algorithm": "Quick Sort",
-      "comparisons": 3783.83,
-      "swaps": 2165.90
+      "comparisons": 3734.40,
+      "swaps": 2142.10
     },
     {
       "size": 411,
@@ -1521,31 +1521,31 @@
       "size": 421,
       "algorithm": "Bubble Sort",
       "comparisons": 88410.00,
-      "swaps": 44732.47
+      "swaps": 43715.30
     },
     {
       "size": 421,
       "algorithm": "Insertion Sort",
-      "comparisons": 45146.40,
-      "swaps": 44732.47
+      "comparisons": 44129.43,
+      "swaps": 43715.30
     },
     {
       "size": 421,
       "algorithm": "Heap Sort",
-      "comparisons": 6066.63,
-      "swaps": 3309.20
+      "comparisons": 6071.13,
+      "swaps": 3313.20
     },
     {
       "size": 421,
       "algorithm": "Merge Sort",
-      "comparisons": 3148.33,
+      "comparisons": 3149.87,
       "swaps": 7396.00
     },
     {
       "size": 421,
       "algorithm": "Quick Sort",
-      "comparisons": 3906.13,
-      "swaps": 2247.33
+      "comparisons": 3912.00,
+      "swaps": 2198.97
     },
     {
       "size": 421,
@@ -1557,31 +1557,31 @@
       "size": 431,
       "algorithm": "Bubble Sort",
       "comparisons": 92665.00,
-      "swaps": 46806.43
+      "swaps": 45922.40
     },
     {
       "size": 431,
       "algorithm": "Insertion Sort",
-      "comparisons": 47230.30,
-      "swaps": 46806.43
+      "comparisons": 46346.47,
+      "swaps": 45922.40
     },
     {
       "size": 431,
       "algorithm": "Heap Sort",
-      "comparisons": 6239.33,
-      "swaps": 3402.27
+      "comparisons": 6241.63,
+      "swaps": 3405.80
     },
     {
       "size": 431,
       "algorithm": "Merge Sort",
-      "comparisons": 3233.67,
+      "comparisons": 3240.00,
       "swaps": 7596.00
     },
     {
       "size": 431,
       "algorithm": "Quick Sort",
-      "comparisons": 4002.57,
-      "swaps": 2293.80
+      "comparisons": 4066.87,
+      "swaps": 2332.27
     },
     {
       "size": 431,
@@ -1593,31 +1593,31 @@
       "size": 441,
       "algorithm": "Bubble Sort",
       "comparisons": 97020.00,
-      "swaps": 49046.57
+      "swaps": 48000.87
     },
     {
       "size": 441,
       "algorithm": "Insertion Sort",
-      "comparisons": 49480.40,
-      "swaps": 49046.57
+      "comparisons": 48434.93,
+      "swaps": 48000.87
     },
     {
       "size": 441,
       "algorithm": "Heap Sort",
-      "comparisons": 6414.37,
-      "swaps": 3497.43
+      "comparisons": 6414.23,
+      "swaps": 3499.40
     },
     {
       "size": 441,
       "algorithm": "Merge Sort",
-      "comparisons": 3324.43,
+      "comparisons": 3328.63,
       "swaps": 7796.00
     },
     {
       "size": 441,
       "algorithm": "Quick Sort",
-      "comparisons": 4189.87,
-      "swaps": 2282.67
+      "comparisons": 4197.27,
+      "swaps": 2458.13
     },
     {
       "size": 441,
@@ -1629,31 +1629,31 @@
       "size": 451,
       "algorithm": "Bubble Sort",
       "comparisons": 101475.00,
-      "swaps": 51379.60
+      "swaps": 50201.27
     },
     {
       "size": 451,
       "algorithm": "Insertion Sort",
-      "comparisons": 51823.43,
-      "swaps": 51379.60
+      "comparisons": 50645.33,
+      "swaps": 50201.27
     },
     {
       "size": 451,
       "algorithm": "Heap Sort",
-      "comparisons": 6587.03,
-      "swaps": 3588.93
+      "comparisons": 6584.20,
+      "swaps": 3590.63
     },
     {
       "size": 451,
       "algorithm": "Merge Sort",
-      "comparisons": 3411.47,
+      "comparisons": 3416.87,
       "swaps": 7996.00
     },
     {
       "size": 451,
       "algorithm": "Quick Sort",
-      "comparisons": 4171.87,
-      "swaps": 2357.80
+      "comparisons": 4286.83,
+      "swaps": 2452.63
     },
     {
       "size": 451,
@@ -1665,31 +1665,31 @@
       "size": 461,
       "algorithm": "Bubble Sort",
       "comparisons": 106030.00,
-      "swaps": 53546.47
+      "swaps": 52451.27
     },
     {
       "size": 461,
       "algorithm": "Insertion Sort",
-      "comparisons": 54000.30,
-      "swaps": 53546.47
+      "comparisons": 52905.33,
+      "swaps": 52451.27
     },
     {
       "size": 461,
       "algorithm": "Heap Sort",
-      "comparisons": 6759.70,
-      "swaps": 3681.93
+      "comparisons": 6752.57,
+      "swaps": 3678.87
     },
     {
       "size": 461,
       "algorithm": "Merge Sort",
-      "comparisons": 3502.53,
+      "comparisons": 3507.57,
       "swaps": 8196.00
     },
     {
       "size": 461,
       "algorithm": "Quick Sort",
-      "comparisons": 4353.10,
-      "swaps": 2468.30
+      "comparisons": 4364.43,
+      "swaps": 2481.43
     },
     {
       "size": 461,
@@ -1701,31 +1701,31 @@
       "size": 471,
       "algorithm": "Bubble Sort",
       "comparisons": 110685.00,
-      "swaps": 55853.53
+      "swaps": 54731.23
     },
     {
       "size": 471,
       "algorithm": "Insertion Sort",
-      "comparisons": 56317.33,
-      "swaps": 55853.53
+      "comparisons": 55195.27,
+      "swaps": 54731.23
     },
     {
       "size": 471,
       "algorithm": "Heap Sort",
-      "comparisons": 6932.23,
-      "swaps": 3774.67
+      "comparisons": 6930.07,
+      "swaps": 3775.37
     },
     {
       "size": 471,
       "algorithm": "Merge Sort",
-      "comparisons": 3596.73,
+      "comparisons": 3595.83,
       "swaps": 8396.00
     },
     {
       "size": 471,
       "algorithm": "Quick Sort",
-      "comparisons": 4443.03,
-      "swaps": 2593.90
+      "comparisons": 4489.87,
+      "swaps": 2512.97
     },
     {
       "size": 471,
@@ -1737,31 +1737,31 @@
       "size": 481,
       "algorithm": "Bubble Sort",
       "comparisons": 115440.00,
-      "swaps": 58158.40
+      "swaps": 57016.50
     },
     {
       "size": 481,
       "algorithm": "Insertion Sort",
-      "comparisons": 58632.20,
-      "swaps": 58158.40
+      "comparisons": 57490.43,
+      "swaps": 57016.50
     },
     {
       "size": 481,
       "algorithm": "Heap Sort",
-      "comparisons": 7099.83,
-      "swaps": 3864.87
+      "comparisons": 7101.30,
+      "swaps": 3871.30
     },
     {
       "size": 481,
       "algorithm": "Merge Sort",
-      "comparisons": 3682.33,
+      "comparisons": 3684.73,
       "swaps": 8596.00
     },
     {
       "size": 481,
       "algorithm": "Quick Sort",
-      "comparisons": 4665.93,
-      "swaps": 2719.10
+      "comparisons": 4538.60,
+      "swaps": 2667.87
     },
     {
       "size": 481,
@@ -1773,31 +1773,31 @@
       "size": 491,
       "algorithm": "Bubble Sort",
       "comparisons": 120295.00,
-      "swaps": 60567.03
+      "swaps": 59516.60
     },
     {
       "size": 491,
       "algorithm": "Insertion Sort",
-      "comparisons": 61050.83,
-      "swaps": 60567.03
+      "comparisons": 60000.50,
+      "swaps": 59516.60
     },
     {
       "size": 491,
       "algorithm": "Heap Sort",
-      "comparisons": 7276.40,
-      "swaps": 3960.63
+      "comparisons": 7273.43,
+      "swaps": 3959.50
     },
     {
       "size": 491,
       "algorithm": "Merge Sort",
-      "comparisons": 3771.47,
+      "comparisons": 3775.90,
       "swaps": 8796.00
     },
     {
       "size": 491,
       "algorithm": "Quick Sort",
-      "comparisons": 4713.83,
-      "swaps": 2664.87
+      "comparisons": 4616.87,
+      "swaps": 2595.03
     },
     {
       "size": 491,
@@ -1809,31 +1809,31 @@
       "size": 501,
       "algorithm": "Bubble Sort",
       "comparisons": 125250.00,
-      "swaps": 62878.93
+      "swaps": 62111.33
     },
     {
       "size": 501,
       "algorithm": "Insertion Sort",
-      "comparisons": 63372.73,
-      "swaps": 62878.93
+      "comparisons": 62605.23,
+      "swaps": 62111.33
     },
     {
       "size": 501,
       "algorithm": "Heap Sort",
-      "comparisons": 7449.03,
-      "swaps": 4052.70
+      "comparisons": 7446.60,
+      "swaps": 4051.13
     },
     {
       "size": 501,
       "algorithm": "Merge Sort",
-      "comparisons": 3865.63,
+      "comparisons": 3862.60,
       "swaps": 8996.00
     },
     {
       "size": 501,
       "algorithm": "Quick Sort",
-      "comparisons": 4848.83,
-      "swaps": 2785.97
+      "comparisons": 4848.60,
+      "swaps": 2772.03
     },
     {
       "size": 501,
@@ -1845,31 +1845,31 @@
       "size": 511,
       "algorithm": "Bubble Sort",
       "comparisons": 130305.00,
-      "swaps": 65381.43
+      "swaps": 64611.33
     },
     {
       "size": 511,
       "algorithm": "Insertion Sort",
-      "comparisons": 65885.23,
-      "swaps": 65381.43
+      "comparisons": 65115.17,
+      "swaps": 64611.33
     },
     {
       "size": 511,
       "algorithm": "Heap Sort",
-      "comparisons": 7611.63,
-      "swaps": 4138.37
+      "comparisons": 7620.97,
+      "swaps": 4147.03
     },
     {
       "size": 511,
       "algorithm": "Merge Sort",
-      "comparisons": 3954.30,
+      "comparisons": 3955.30,
       "swaps": 9196.00
     },
     {
       "size": 511,
       "algorithm": "Quick Sort",
-      "comparisons": 4905.17,
-      "swaps": 2792.83
+      "comparisons": 4865.00,
+      "swaps": 2744.43
     },
     {
       "size": 511,
@@ -1881,31 +1881,31 @@
       "size": 521,
       "algorithm": "Bubble Sort",
       "comparisons": 135460.00,
-      "swaps": 67887.87
+      "swaps": 67099.40
     },
     {
       "size": 521,
       "algorithm": "Insertion Sort",
-      "comparisons": 68401.57,
-      "swaps": 67887.87
+      "comparisons": 67613.20,
+      "swaps": 67099.40
     },
     {
       "size": 521,
       "algorithm": "Heap Sort",
-      "comparisons": 7803.80,
-      "swaps": 4240.93
+      "comparisons": 7798.93,
+      "swaps": 4241.97
     },
     {
       "size": 521,
       "algorithm": "Merge Sort",
-      "comparisons": 4047.23,
+      "comparisons": 4047.37,
       "swaps": 9414.00
     },
     {
       "size": 521,
       "algorithm": "Quick Sort",
-      "comparisons": 5049.30,
-      "swaps": 2928.37
+      "comparisons": 5023.43,
+      "swaps": 2859.43
     },
     {
       "size": 521,
@@ -1917,31 +1917,31 @@
       "size": 531,
       "algorithm": "Bubble Sort",
       "comparisons": 140715.00,
-      "swaps": 70416.60
+      "swaps": 69733.27
     },
     {
       "size": 531,
       "algorithm": "Insertion Sort",
-      "comparisons": 70940.27,
-      "swaps": 70416.60
+      "comparisons": 70257.07,
+      "swaps": 69733.27
     },
     {
       "size": 531,
       "algorithm": "Heap Sort",
-      "comparisons": 7986.03,
-      "swaps": 4338.63
+      "comparisons": 7987.27,
+      "swaps": 4344.37
     },
     {
       "size": 531,
       "algorithm": "Merge Sort",
-      "comparisons": 4142.00,
+      "comparisons": 4139.87,
       "swaps": 9634.00
     },
     {
       "size": 531,
       "algorithm": "Quick Sort",
-      "comparisons": 5161.80,
-      "swaps": 2930.57
+      "comparisons": 5159.00,
+      "swaps": 2957.70
     },
     {
       "size": 531,
@@ -1953,31 +1953,31 @@
       "size": 541,
       "algorithm": "Bubble Sort",
       "comparisons": 146070.00,
-      "swaps": 72992.67
+      "swaps": 72349.20
     },
     {
       "size": 541,
       "algorithm": "Insertion Sort",
-      "comparisons": 73526.33,
-      "swaps": 72992.67
+      "comparisons": 72883.00,
+      "swaps": 72349.20
     },
     {
       "size": 541,
       "algorithm": "Heap Sort",
-      "comparisons": 8163.87,
-      "swaps": 4433.60
+      "comparisons": 8168.73,
+      "swaps": 4442.20
     },
     {
       "size": 541,
       "algorithm": "Merge Sort",
-      "comparisons": 4234.53,
+      "comparisons": 4232.30,
       "swaps": 9854.00
     },
     {
       "size": 541,
       "algorithm": "Quick Sort",
-      "comparisons": 5339.63,
-      "swaps": 2991.77
+      "comparisons": 5308.90,
+      "swaps": 3003.77
     },
     {
       "size": 541,
@@ -1989,31 +1989,31 @@
       "size": 551,
       "algorithm": "Bubble Sort",
       "comparisons": 151525.00,
-      "swaps": 75796.03
+      "swaps": 75040.47
     },
     {
       "size": 551,
       "algorithm": "Insertion Sort",
-      "comparisons": 76339.70,
-      "swaps": 75796.03
+      "comparisons": 75584.27,
+      "swaps": 75040.47
     },
     {
       "size": 551,
       "algorithm": "Heap Sort",
-      "comparisons": 8345.37,
-      "swaps": 4533.40
+      "comparisons": 8351.23,
+      "swaps": 4537.27
     },
     {
       "size": 551,
       "algorithm": "Merge Sort",
-      "comparisons": 4330.10,
+      "comparisons": 4327.37,
       "swaps": 10074.00
     },
     {
       "size": 551,
       "algorithm": "Quick Sort",
-      "comparisons": 5513.77,
-      "swaps": 3138.87
+      "comparisons": 5405.97,
+      "swaps": 2955.43
     },
     {
       "size": 551,
@@ -2025,31 +2025,31 @@
       "size": 561,
       "algorithm": "Bubble Sort",
       "comparisons": 157080.00,
-      "swaps": 78684.53
+      "swaps": 77871.63
     },
     {
       "size": 561,
       "algorithm": "Insertion Sort",
-      "comparisons": 79238.20,
-      "swaps": 78684.53
+      "comparisons": 78425.40,
+      "swaps": 77871.63
     },
     {
       "size": 561,
       "algorithm": "Heap Sort",
-      "comparisons": 8532.13,
-      "swaps": 4630.57
+      "comparisons": 8536.50,
+      "swaps": 4635.47
     },
     {
       "size": 561,
       "algorithm": "Merge Sort",
-      "comparisons": 4426.67,
+      "comparisons": 4423.80,
       "swaps": 10294.00
     },
     {
       "size": 561,
       "algorithm": "Quick Sort",
-      "comparisons": 5485.87,
-      "swaps": 3074.80
+      "comparisons": 5549.80,
+      "swaps": 3090.07
     },
     {
       "size": 561,
@@ -2061,31 +2061,31 @@
       "size": 571,
       "algorithm": "Bubble Sort",
       "comparisons": 162735.00,
-      "swaps": 81720.97
+      "swaps": 80859.93
     },
     {
       "size": 571,
       "algorithm": "Insertion Sort",
-      "comparisons": 82284.63,
-      "swaps": 81720.97
+      "comparisons": 81423.67,
+      "swaps": 80859.93
     },
     {
       "size": 571,
       "algorithm": "Heap Sort",
-      "comparisons": 8714.33,
-      "swaps": 4730.13
+      "comparisons": 8713.00,
+      "swaps": 4731.53
     },
     {
       "size": 571,
       "algorithm": "Merge Sort",
-      "comparisons": 4519.17,
+      "comparisons": 4520.60,
       "swaps": 10514.00
     },
     {
       "size": 571,
       "algorithm": "Quick Sort",
-      "comparisons": 5686.57,
-      "swaps": 3172.43
+      "comparisons": 5644.77,
+      "swaps": 3211.27
     },
     {
       "size": 571,
@@ -2097,31 +2097,31 @@
       "size": 581,
       "algorithm": "Bubble Sort",
       "comparisons": 168490.00,
-      "swaps": 84457.33
+      "swaps": 83677.83
     },
     {
       "size": 581,
       "algorithm": "Insertion Sort",
-      "comparisons": 85031.00,
-      "swaps": 84457.33
+      "comparisons": 84251.53,
+      "swaps": 83677.83
     },
     {
       "size": 581,
       "algorithm": "Heap Sort",
-      "comparisons": 8895.80,
-      "swaps": 4827.60
+      "comparisons": 8900.10,
+      "swaps": 4830.43
     },
     {
       "size": 581,
       "algorithm": "Merge Sort",
-      "comparisons": 4613.63,
+      "comparisons": 4612.17,
       "swaps": 10734.00
     },
     {
       "size": 581,
       "algorithm": "Quick Sort",
-      "comparisons": 5798.53,
-      "swaps": 3266.23
+      "comparisons": 5670.50,
+      "swaps": 3200.07
     },
     {
       "size": 581,
@@ -2133,31 +2133,31 @@
       "size": 591,
       "algorithm": "Bubble Sort",
       "comparisons": 174345.00,
-      "swaps": 87429.40
+      "swaps": 86689.03
     },
     {
       "size": 591,
       "algorithm": "Insertion Sort",
-      "comparisons": 88013.07,
-      "swaps": 87429.40
+      "comparisons": 87272.73,
+      "swaps": 86689.03
     },
     {
       "size": 591,
       "algorithm": "Heap Sort",
-      "comparisons": 9081.83,
-      "swaps": 4926.70
+      "comparisons": 9085.73,
+      "swaps": 4928.43
     },
     {
       "size": 591,
       "algorithm": "Merge Sort",
-      "comparisons": 4705.57,
+      "comparisons": 4710.93,
       "swaps": 10954.00
     },
     {
       "size": 591,
       "algorithm": "Quick Sort",
-      "comparisons": 5826.73,
-      "swaps": 3233.97
+      "comparisons": 5834.60,
+      "swaps": 3202.93
     },
     {
       "size": 591,
@@ -2169,31 +2169,31 @@
       "size": 601,
       "algorithm": "Bubble Sort",
       "comparisons": 180300.00,
-      "swaps": 90516.53
+      "swaps": 89562.43
     },
     {
       "size": 601,
       "algorithm": "Insertion Sort",
-      "comparisons": 91110.20,
-      "swaps": 90516.53
+      "comparisons": 90156.13,
+      "swaps": 89562.43
     },
     {
       "size": 601,
       "algorithm": "Heap Sort",
-      "comparisons": 9264.67,
-      "swaps": 5022.03
+      "comparisons": 9268.83,
+      "swaps": 5028.60
     },
     {
       "size": 601,
       "algorithm": "Merge Sort",
-      "comparisons": 4806.87,
+      "comparisons": 4800.67,
       "swaps": 11174.00
     },
     {
       "size": 601,
       "algorithm": "Quick Sort",
-      "comparisons": 6007.93,
-      "swaps": 3291.67
+      "comparisons": 5977.30,
+      "swaps": 3413.40
     },
     {
       "size": 601,
@@ -2205,31 +2205,31 @@
       "size": 611,
       "algorithm": "Bubble Sort",
       "comparisons": 186355.00,
-      "swaps": 93665.07
+      "swaps": 92647.03
     },
     {
       "size": 611,
       "algorithm": "Insertion Sort",
-      "comparisons": 94268.73,
-      "swaps": 93665.07
+      "comparisons": 93250.67,
+      "swaps": 92647.03
     },
     {
       "size": 611,
       "algorithm": "Heap Sort",
-      "comparisons": 9455.60,
-      "swaps": 5126.83
+      "comparisons": 9458.30,
+      "swaps": 5132.43
     },
     {
       "size": 611,
       "algorithm": "Merge Sort",
-      "comparisons": 4898.13,
+      "comparisons": 4894.97,
       "swaps": 11394.00
     },
     {
       "size": 611,
       "algorithm": "Quick Sort",
-      "comparisons": 6126.40,
-      "swaps": 3388.23
+      "comparisons": 6225.13,
+      "swaps": 3493.77
     },
     {
       "size": 611,
@@ -2241,31 +2241,31 @@
       "size": 621,
       "algorithm": "Bubble Sort",
       "comparisons": 192510.00,
-      "swaps": 96477.80
+      "swaps": 95914.30
     },
     {
       "size": 621,
       "algorithm": "Insertion Sort",
-      "comparisons": 97091.47,
-      "swaps": 96477.80
+      "comparisons": 96527.93,
+      "swaps": 95914.30
     },
     {
       "size": 621,
       "algorithm": "Heap Sort",
-      "comparisons": 9635.50,
-      "swaps": 5221.47
+      "comparisons": 9640.73,
+      "swaps": 5227.60
     },
     {
       "size": 621,
       "algorithm": "Merge Sort",
-      "comparisons": 4991.47,
+      "comparisons": 4994.97,
       "swaps": 11614.00
     },
     {
       "size": 621,
       "algorithm": "Quick Sort",
-      "comparisons": 6240.40,
-      "swaps": 3679.73
+      "comparisons": 6296.67,
+      "swaps": 3542.70
     },
     {
       "size": 621,
@@ -2277,31 +2277,31 @@
       "size": 631,
       "algorithm": "Bubble Sort",
       "comparisons": 198765.00,
-      "swaps": 99699.33
+      "swaps": 99035.60
     },
     {
       "size": 631,
       "algorithm": "Insertion Sort",
-      "comparisons": 100322.97,
-      "swaps": 99699.33
+      "comparisons": 99659.23,
+      "swaps": 99035.60
     },
     {
       "size": 631,
       "algorithm": "Heap Sort",
-      "comparisons": 9824.80,
-      "swaps": 5326.10
+      "comparisons": 9824.93,
+      "swaps": 5326.27
     },
     {
       "size": 631,
       "algorithm": "Merge Sort",
-      "comparisons": 5090.37,
+      "comparisons": 5087.07,
       "swaps": 11834.00
     },
     {
       "size": 631,
       "algorithm": "Quick Sort",
-      "comparisons": 6349.73,
-      "swaps": 3535.53
+      "comparisons": 6418.40,
+      "swaps": 3694.03
     },
     {
       "size": 631,
@@ -2313,31 +2313,31 @@
       "size": 641,
       "algorithm": "Bubble Sort",
       "comparisons": 205120.00,
-      "swaps": 102988.03
+      "swaps": 102084.23
     },
     {
       "size": 641,
       "algorithm": "Insertion Sort",
-      "comparisons": 103621.63,
-      "swaps": 102988.03
+      "comparisons": 102717.87,
+      "swaps": 102084.23
     },
     {
       "size": 641,
       "algorithm": "Heap Sort",
-      "comparisons": 10013.00,
-      "swaps": 5428.10
+      "comparisons": 10014.13,
+      "swaps": 5427.57
     },
     {
       "size": 641,
       "algorithm": "Merge Sort",
-      "comparisons": 5184.77,
+      "comparisons": 5183.37,
       "swaps": 12054.00
     },
     {
       "size": 641,
       "algorithm": "Quick Sort",
-      "comparisons": 6484.67,
-      "swaps": 3670.43
+      "comparisons": 6505.80,
+      "swaps": 3683.67
     },
     {
       "size": 641,
@@ -2349,31 +2349,31 @@
       "size": 651,
       "algorithm": "Bubble Sort",
       "comparisons": 211575.00,
-      "swaps": 106180.70
+      "swaps": 105435.20
     },
     {
       "size": 651,
       "algorithm": "Insertion Sort",
-      "comparisons": 106824.27,
-      "swaps": 106180.70
+      "comparisons": 106078.80,
+      "swaps": 105435.20
     },
     {
       "size": 651,
       "algorithm": "Heap Sort",
-      "comparisons": 10200.70,
+      "comparisons": 10201.17,
       "swaps": 5526.83
     },
     {
       "size": 651,
       "algorithm": "Merge Sort",
-      "comparisons": 5275.80,
+      "comparisons": 5274.17,
       "swaps": 12274.00
     },
     {
       "size": 651,
       "algorithm": "Quick Sort",
-      "comparisons": 6619.40,
-      "swaps": 3684.90
+      "comparisons": 6587.90,
+      "swaps": 3765.93
     },
     {
       "size": 651,
@@ -2385,31 +2385,31 @@
       "size": 661,
       "algorithm": "Bubble Sort",
       "comparisons": 218130.00,
-      "swaps": 109305.23
+      "swaps": 108687.00
     },
     {
       "size": 661,
       "algorithm": "Insertion Sort",
-      "comparisons": 109958.80,
-      "swaps": 109305.23
+      "comparisons": 109340.60,
+      "swaps": 108687.00
     },
     {
       "size": 661,
       "algorithm": "Heap Sort",
-      "comparisons": 10388.70,
-      "swaps": 5626.67
+      "comparisons": 10385.10,
+      "swaps": 5624.27
     },
     {
       "size": 661,
       "algorithm": "Merge Sort",
-      "comparisons": 5372.13,
+      "comparisons": 5370.83,
       "swaps": 12494.00
     },
     {
       "size": 661,
       "algorithm": "Quick Sort",
-      "comparisons": 6865.87,
-      "swaps": 3930.27
+      "comparisons": 6768.10,
+      "swaps": 3850.77
     },
     {
       "size": 661,
@@ -2421,31 +2421,31 @@
       "size": 671,
       "algorithm": "Bubble Sort",
       "comparisons": 224785.00,
-      "swaps": 112556.93
+      "swaps": 112087.63
     },
     {
       "size": 671,
       "algorithm": "Insertion Sort",
-      "comparisons": 113220.43,
-      "swaps": 112556.93
+      "comparisons": 112751.23,
+      "swaps": 112087.63
     },
     {
       "size": 671,
       "algorithm": "Heap Sort",
-      "comparisons": 10571.20,
-      "swaps": 5724.17
+      "comparisons": 10572.93,
+      "swaps": 5726.63
     },
     {
       "size": 671,
       "algorithm": "Merge Sort",
-      "comparisons": 5470.07,
+      "comparisons": 5475.10,
       "swaps": 12714.00
     },
     {
       "size": 671,
       "algorithm": "Quick Sort",
-      "comparisons": 6868.63,
-      "swaps": 3838.37
+      "comparisons": 6809.47,
+      "swaps": 3757.30
     },
     {
       "size": 671,
@@ -2457,31 +2457,31 @@
       "size": 681,
       "algorithm": "Bubble Sort",
       "comparisons": 231540.00,
-      "swaps": 115970.23
+      "swaps": 115442.00
     },
     {
       "size": 681,
       "algorithm": "Insertion Sort",
-      "comparisons": 116643.70,
-      "swaps": 115970.23
+      "comparisons": 116115.60,
+      "swaps": 115442.00
     },
     {
       "size": 681,
       "algorithm": "Heap Sort",
-      "comparisons": 10762.50,
-      "swaps": 5829.83
+      "comparisons": 10765.30,
+      "swaps": 5831.60
     },
     {
       "size": 681,
       "algorithm": "Merge Sort",
-      "comparisons": 5569.83,
+      "comparisons": 5564.17,
       "swaps": 12934.00
     },
     {
       "size": 681,
       "algorithm": "Quick Sort",
-      "comparisons": 6910.40,
-      "swaps": 3927.03
+      "comparisons": 6970.03,
+      "swaps": 4001.33
     },
     {
       "size": 681,
@@ -2493,31 +2493,31 @@
       "size": 691,
       "algorithm": "Bubble Sort",
       "comparisons": 238395.00,
-      "swaps": 119232.50
+      "swaps": 118997.83
     },
     {
       "size": 691,
       "algorithm": "Insertion Sort",
-      "comparisons": 119915.97,
-      "swaps": 119232.50
+      "comparisons": 119681.37,
+      "swaps": 118997.83
     },
     {
       "size": 691,
       "algorithm": "Heap Sort",
-      "comparisons": 10959.37,
-      "swaps": 5934.60
+      "comparisons": 10950.63,
+      "swaps": 5930.43
     },
     {
       "size": 691,
       "algorithm": "Merge Sort",
-      "comparisons": 5660.97,
+      "comparisons": 5666.70,
       "swaps": 13154.00
     },
     {
       "size": 691,
       "algorithm": "Quick Sort",
-      "comparisons": 7102.93,
-      "swaps": 4043.43
+      "comparisons": 7167.23,
+      "swaps": 3983.27
     },
     {
       "size": 691,
@@ -2529,31 +2529,31 @@
       "size": 701,
       "algorithm": "Bubble Sort",
       "comparisons": 245350.00,
-      "swaps": 122817.83
+      "swaps": 122402.60
     },
     {
       "size": 701,
       "algorithm": "Insertion Sort",
-      "comparisons": 123511.30,
-      "swaps": 122817.83
+      "comparisons": 123096.10,
+      "swaps": 122402.60
     },
     {
       "size": 701,
       "algorithm": "Heap Sort",
-      "comparisons": 11139.50,
-      "swaps": 6030.97
+      "comparisons": 11132.80,
+      "swaps": 6026.63
     },
     {
       "size": 701,
       "algorithm": "Merge Sort",
-      "comparisons": 5765.47,
+      "comparisons": 5759.93,
       "swaps": 13374.00
     },
     {
       "size": 701,
       "algorithm": "Quick Sort",
-      "comparisons": 7167.90,
-      "swaps": 4113.40
+      "comparisons": 7234.90,
+      "swaps": 4136.27
     },
     {
       "size": 701,
@@ -2565,31 +2565,31 @@
       "size": 711,
       "algorithm": "Bubble Sort",
       "comparisons": 252405.00,
-      "swaps": 126197.30
+      "swaps": 125901.00
     },
     {
       "size": 711,
       "algorithm": "Insertion Sort",
-      "comparisons": 126900.77,
-      "swaps": 126197.30
+      "comparisons": 126604.47,
+      "swaps": 125901.00
     },
     {
       "size": 711,
       "algorithm": "Heap Sort",
-      "comparisons": 11327.50,
-      "swaps": 6130.30
+      "comparisons": 11323.63,
+      "swaps": 6129.17
     },
     {
       "size": 711,
       "algorithm": "Merge Sort",
-      "comparisons": 5857.13,
+      "comparisons": 5853.03,
       "swaps": 13594.00
     },
     {
       "size": 711,
       "algorithm": "Quick Sort",
-      "comparisons": 7353.63,
-      "swaps": 4194.40
+      "comparisons": 7367.23,
+      "swaps": 4112.67
     },
     {
       "size": 711,
@@ -2601,31 +2601,31 @@
       "size": 721,
       "algorithm": "Bubble Sort",
       "comparisons": 259560.00,
-      "swaps": 129611.70
+      "swaps": 129434.97
     },
     {
       "size": 721,
       "algorithm": "Insertion Sort",
-      "comparisons": 130325.17,
-      "swaps": 129611.70
+      "comparisons": 130148.43,
+      "swaps": 129434.97
     },
     {
       "size": 721,
       "algorithm": "Heap Sort",
-      "comparisons": 11514.03,
-      "swaps": 6227.47
+      "comparisons": 11517.93,
+      "swaps": 6234.33
     },
     {
       "size": 721,
       "algorithm": "Merge Sort",
-      "comparisons": 5952.87,
+      "comparisons": 5951.60,
       "swaps": 13814.00
     },
     {
       "size": 721,
       "algorithm": "Quick Sort",
-      "comparisons": 7436.17,
-      "swaps": 4255.00
+      "comparisons": 7435.07,
+      "swaps": 4130.73
     },
     {
       "size": 721,
@@ -2637,31 +2637,31 @@
       "size": 731,
       "algorithm": "Bubble Sort",
       "comparisons": 266815.00,
-      "swaps": 133314.87
+      "swaps": 132990.33
     },
     {
       "size": 731,
       "algorithm": "Insertion Sort",
-      "comparisons": 134038.30,
-      "swaps": 133314.87
+      "comparisons": 133713.80,
+      "swaps": 132990.33
     },
     {
       "size": 731,
       "algorithm": "Heap Sort",
-      "comparisons": 11703.17,
-      "swaps": 6332.37
+      "comparisons": 11707.87,
+      "swaps": 6335.40
     },
     {
       "size": 731,
       "algorithm": "Merge Sort",
-      "comparisons": 6052.70,
+      "comparisons": 6050.30,
       "swaps": 14034.00
     },
     {
       "size": 731,
       "algorithm": "Quick Sort",
-      "comparisons": 7677.50,
-      "swaps": 4268.13
+      "comparisons": 7505.53,
+      "swaps": 4181.03
     },
     {
       "size": 731,
@@ -2673,31 +2673,31 @@
       "size": 741,
       "algorithm": "Bubble Sort",
       "comparisons": 274170.00,
-      "swaps": 137141.03
+      "swaps": 136702.07
     },
     {
       "size": 741,
       "algorithm": "Insertion Sort",
-      "comparisons": 137874.47,
-      "swaps": 137141.03
+      "comparisons": 137435.53,
+      "swaps": 136702.07
     },
     {
       "size": 741,
       "algorithm": "Heap Sort",
-      "comparisons": 11892.73,
-      "swaps": 6434.07
+      "comparisons": 11897.97,
+      "swaps": 6438.17
     },
     {
       "size": 741,
       "algorithm": "Merge Sort",
-      "comparisons": 6143.60,
+      "comparisons": 6141.87,
       "swaps": 14254.00
     },
     {
       "size": 741,
       "algorithm": "Quick Sort",
-      "comparisons": 7696.57,
-      "swaps": 4345.67
+      "comparisons": 7664.47,
+      "swaps": 4371.43
     },
     {
       "size": 741,
@@ -2709,31 +2709,31 @@
       "size": 751,
       "algorithm": "Bubble Sort",
       "comparisons": 281625.00,
-      "swaps": 140949.07
+      "swaps": 140340.40
     },
     {
       "size": 751,
       "algorithm": "Insertion Sort",
-      "comparisons": 141692.47,
-      "swaps": 140949.07
+      "comparisons": 141083.83,
+      "swaps": 140340.40
     },
     {
       "size": 751,
       "algorithm": "Heap Sort",
-      "comparisons": 12075.27,
-      "swaps": 6528.60
+      "comparisons": 12085.77,
+      "swaps": 6538.53
     },
     {
       "size": 751,
       "algorithm": "Merge Sort",
-      "comparisons": 6243.93,
+      "comparisons": 6240.63,
       "swaps": 14474.00
     },
     {
       "size": 751,
       "algorithm": "Quick Sort",
-      "comparisons": 7916.23,
-      "swaps": 4394.57
+      "comparisons": 7872.27,
+      "swaps": 4317.07
     },
     {
       "size": 751,
@@ -2745,31 +2745,31 @@
       "size": 761,
       "algorithm": "Bubble Sort",
       "comparisons": 289180.00,
-      "swaps": 144721.30
+      "swaps": 144160.60
     },
     {
       "size": 761,
       "algorithm": "Insertion Sort",
-      "comparisons": 145474.70,
-      "swaps": 144721.30
+      "comparisons": 144914.03,
+      "swaps": 144160.60
     },
     {
       "size": 761,
       "algorithm": "Heap Sort",
-      "comparisons": 12266.37,
-      "swaps": 6632.73
+      "comparisons": 12277.87,
+      "swaps": 6636.67
     },
     {
       "size": 761,
       "algorithm": "Merge Sort",
-      "comparisons": 6339.50,
+      "comparisons": 6341.60,
       "swaps": 14694.00
     },
     {
       "size": 761,
       "algorithm": "Quick Sort",
-      "comparisons": 7915.50,
-      "swaps": 4358.13
+      "comparisons": 7949.90,
+      "swaps": 4481.90
     },
     {
       "size": 761,
@@ -2781,31 +2781,31 @@
       "size": 771,
       "algorithm": "Bubble Sort",
       "comparisons": 296835.00,
-      "swaps": 148488.20
+      "swaps": 148151.20
     },
     {
       "size": 771,
       "algorithm": "Insertion Sort",
-      "comparisons": 149251.60,
-      "swaps": 148488.20
+      "comparisons": 148914.60,
+      "swaps": 148151.20
     },
     {
       "size": 771,
       "algorithm": "Heap Sort",
-      "comparisons": 12451.57,
-      "swaps": 6729.80
+      "comparisons": 12463.17,
+      "swaps": 6740.20
     },
     {
       "size": 771,
       "algorithm": "Merge Sort",
-      "comparisons": 6440.33,
+      "comparisons": 6436.87,
       "swaps": 14914.00
     },
     {
       "size": 771,
       "algorithm": "Quick Sort",
-      "comparisons": 8145.73,
-      "swaps": 4567.83
+      "comparisons": 8223.83,
+      "swaps": 4542.77
     },
     {
       "size": 771,
@@ -2817,31 +2817,31 @@
       "size": 781,
       "algorithm": "Bubble Sort",
       "comparisons": 304590.00,
-      "swaps": 152290.13
+      "swaps": 152027.33
     },
     {
       "size": 781,
       "algorithm": "Insertion Sort",
-      "comparisons": 153063.53,
-      "swaps": 152290.13
+      "comparisons": 152800.67,
+      "swaps": 152027.33
     },
     {
       "size": 781,
       "algorithm": "Heap Sort",
-      "comparisons": 12647.23,
-      "swaps": 6836.50
+      "comparisons": 12651.90,
+      "swaps": 6841.27
     },
     {
       "size": 781,
       "algorithm": "Merge Sort",
-      "comparisons": 6531.07,
+      "comparisons": 6530.63,
       "swaps": 15134.00
     },
     {
       "size": 781,
       "algorithm": "Quick Sort",
-      "comparisons": 8136.83,
-      "swaps": 4502.57
+      "comparisons": 8107.60,
+      "swaps": 4551.87
     },
     {
       "size": 781,
@@ -2853,31 +2853,31 @@
       "size": 791,
       "algorithm": "Bubble Sort",
       "comparisons": 312445.00,
-      "swaps": 156132.17
+      "swaps": 156088.13
     },
     {
       "size": 791,
       "algorithm": "Insertion Sort",
-      "comparisons": 156915.57,
-      "swaps": 156132.17
+      "comparisons": 156871.43,
+      "swaps": 156088.13
     },
     {
       "size": 791,
       "algorithm": "Heap Sort",
-      "comparisons": 12840.97,
-      "swaps": 6941.03
+      "comparisons": 12843.60,
+      "swaps": 6943.70
     },
     {
       "size": 791,
       "algorithm": "Merge Sort",
-      "comparisons": 6633.63,
+      "comparisons": 6638.50,
       "swaps": 15354.00
     },
     {
       "size": 791,
       "algorithm": "Quick Sort",
-      "comparisons": 8426.60,
-      "swaps": 4726.27
+      "comparisons": 8229.00,
+      "swaps": 4590.07
     },
     {
       "size": 791,
@@ -2889,31 +2889,31 @@
       "size": 801,
       "algorithm": "Bubble Sort",
       "comparisons": 320400.00,
-      "swaps": 159922.57
+      "swaps": 160095.63
     },
     {
       "size": 801,
       "algorithm": "Insertion Sort",
-      "comparisons": 160715.97,
-      "swaps": 159922.57
+      "comparisons": 160888.87,
+      "swaps": 160095.63
     },
     {
       "size": 801,
       "algorithm": "Heap Sort",
-      "comparisons": 13026.90,
+      "comparisons": 13035.10,
       "swaps": 7041.40
     },
     {
       "size": 801,
       "algorithm": "Merge Sort",
-      "comparisons": 6732.77,
+      "comparisons": 6733.70,
       "swaps": 15574.00
     },
     {
       "size": 801,
       "algorithm": "Quick Sort",
-      "comparisons": 8418.97,
-      "swaps": 4843.57
+      "comparisons": 8554.07,
+      "swaps": 4715.23
     },
     {
       "size": 801,
@@ -2925,31 +2925,31 @@
       "size": 811,
       "algorithm": "Bubble Sort",
       "comparisons": 328455.00,
-      "swaps": 164089.53
+      "swaps": 164215.33
     },
     {
       "size": 811,
       "algorithm": "Insertion Sort",
-      "comparisons": 164892.90,
-      "swaps": 164089.53
+      "comparisons": 165018.57,
+      "swaps": 164215.33
     },
     {
       "size": 811,
       "algorithm": "Heap Sort",
-      "comparisons": 13218.30,
-      "swaps": 7140.80
+      "comparisons": 13224.07,
+      "swaps": 7144.10
     },
     {
       "size": 811,
       "algorithm": "Merge Sort",
-      "comparisons": 6836.00,
+      "comparisons": 6831.47,
       "swaps": 15794.00
     },
     {
       "size": 811,
       "algorithm": "Quick Sort",
-      "comparisons": 8413.73,
-      "swaps": 4834.60
+      "comparisons": 8407.00,
+      "swaps": 4720.10
     },
     {
       "size": 811,
@@ -2961,31 +2961,31 @@
       "size": 821,
       "algorithm": "Bubble Sort",
       "comparisons": 336610.00,
-      "swaps": 168283.93
+      "swaps": 168479.30
     },
     {
       "size": 821,
       "algorithm": "Insertion Sort",
-      "comparisons": 169097.27,
-      "swaps": 168283.93
+      "comparisons": 169292.50,
+      "swaps": 168479.30
     },
     {
       "size": 821,
       "algorithm": "Heap Sort",
-      "comparisons": 13416.57,
-      "swaps": 7249.17
+      "comparisons": 13413.57,
+      "swaps": 7243.53
     },
     {
       "size": 821,
       "algorithm": "Merge Sort",
-      "comparisons": 6931.43,
+      "comparisons": 6924.40,
       "swaps": 16014.00
     },
     {
       "size": 821,
       "algorithm": "Quick Sort",
-      "comparisons": 8703.07,
-      "swaps": 4887.73
+      "comparisons": 8724.93,
+      "swaps": 4817.93
     },
     {
       "size": 821,
@@ -2997,31 +2997,31 @@
       "size": 831,
       "algorithm": "Bubble Sort",
       "comparisons": 344865.00,
-      "swaps": 172026.77
+      "swaps": 172370.10
     },
     {
       "size": 831,
       "algorithm": "Insertion Sort",
-      "comparisons": 172850.07,
-      "swaps": 172026.77
+      "comparisons": 173193.27,
+      "swaps": 172370.10
     },
     {
       "size": 831,
       "algorithm": "Heap Sort",
-      "comparisons": 13607.67,
-      "swaps": 7350.87
+      "comparisons": 13609.87,
+      "swaps": 7348.73
     },
     {
       "size": 831,
       "algorithm": "Merge Sort",
-      "comparisons": 7030.33,
+      "comparisons": 7025.10,
       "swaps": 16234.00
     },
     {
       "size": 831,
       "algorithm": "Quick Sort",
-      "comparisons": 8846.13,
-      "swaps": 4974.53
+      "comparisons": 8667.83,
+      "swaps": 4989.27
     },
     {
       "size": 831,
@@ -3033,31 +3033,31 @@
       "size": 841,
       "algorithm": "Bubble Sort",
       "comparisons": 353220.00,
-      "swaps": 176080.37
+      "swaps": 176464.70
     },
     {
       "size": 841,
       "algorithm": "Insertion Sort",
-      "comparisons": 176913.63,
-      "swaps": 176080.37
+      "comparisons": 177297.87,
+      "swaps": 176464.70
     },
     {
       "size": 841,
       "algorithm": "Heap Sort",
-      "comparisons": 13804.70,
-      "swaps": 7455.80
+      "comparisons": 13798.33,
+      "swaps": 7452.00
     },
     {
       "size": 841,
       "algorithm": "Merge Sort",
-      "comparisons": 7129.93,
+      "comparisons": 7127.53,
       "swaps": 16454.00
     },
     {
       "size": 841,
       "algorithm": "Quick Sort",
-      "comparisons": 8865.10,
-      "swaps": 4945.93
+      "comparisons": 8804.13,
+      "swaps": 4978.47
     },
     {
       "size": 841,
@@ -3069,31 +3069,31 @@
       "size": 851,
       "algorithm": "Bubble Sort",
       "comparisons": 361675.00,
-      "swaps": 180326.73
+      "swaps": 180673.33
     },
     {
       "size": 851,
       "algorithm": "Insertion Sort",
-      "comparisons": 181169.97,
-      "swaps": 180326.73
+      "comparisons": 181516.50,
+      "swaps": 180673.33
     },
     {
       "size": 851,
       "algorithm": "Heap Sort",
-      "comparisons": 13994.47,
-      "swaps": 7557.80
+      "comparisons": 13986.50,
+      "swaps": 7548.90
     },
     {
       "size": 851,
       "algorithm": "Merge Sort",
-      "comparisons": 7229.00,
+      "comparisons": 7226.20,
       "swaps": 16674.00
     },
     {
       "size": 851,
       "algorithm": "Quick Sort",
-      "comparisons": 9112.10,
-      "swaps": 5198.57
+      "comparisons": 8943.43,
+      "swaps": 5072.27
     },
     {
       "size": 851,
@@ -3105,31 +3105,31 @@
       "size": 861,
       "algorithm": "Bubble Sort",
       "comparisons": 370230.00,
-      "swaps": 184567.43
+      "swaps": 185115.33
     },
     {
       "size": 861,
       "algorithm": "Insertion Sort",
-      "comparisons": 185420.60,
-      "swaps": 184567.43
+      "comparisons": 185968.50,
+      "swaps": 185115.33
     },
     {
       "size": 861,
       "algorithm": "Heap Sort",
-      "comparisons": 14188.17,
-      "swaps": 7661.63
+      "comparisons": 14183.53,
+      "swaps": 7655.53
     },
     {
       "size": 861,
       "algorithm": "Merge Sort",
-      "comparisons": 7321.77,
+      "comparisons": 7322.27,
       "swaps": 16894.00
     },
     {
       "size": 861,
       "algorithm": "Quick Sort",
-      "comparisons": 9183.53,
-      "swaps": 5227.57
+      "comparisons": 9217.93,
+      "swaps": 5109.60
     },
     {
       "size": 861,
@@ -3141,31 +3141,31 @@
       "size": 871,
       "algorithm": "Bubble Sort",
       "comparisons": 378885.00,
-      "swaps": 188790.30
+      "swaps": 189227.00
     },
     {
       "size": 871,
       "algorithm": "Insertion Sort",
-      "comparisons": 189653.47,
-      "swaps": 188790.30
+      "comparisons": 190090.17,
+      "swaps": 189227.00
     },
     {
       "size": 871,
       "algorithm": "Heap Sort",
-      "comparisons": 14373.87,
-      "swaps": 7759.53
+      "comparisons": 14365.00,
+      "swaps": 7750.63
     },
     {
       "size": 871,
       "algorithm": "Merge Sort",
-      "comparisons": 7423.93,
+      "comparisons": 7421.60,
       "swaps": 17114.00
     },
     {
       "size": 871,
       "algorithm": "Quick Sort",
-      "comparisons": 9419.07,
-      "swaps": 5330.10
+      "comparisons": 9224.37,
+      "swaps": 5307.27
     },
     {
       "size": 871,
@@ -3177,31 +3177,31 @@
       "size": 881,
       "algorithm": "Bubble Sort",
       "comparisons": 387640.00,
-      "swaps": 193083.57
+      "swaps": 193714.97
     },
     {
       "size": 881,
       "algorithm": "Insertion Sort",
-      "comparisons": 193956.73,
-      "swaps": 193083.57
+      "comparisons": 194588.13,
+      "swaps": 193714.97
     },
     {
       "size": 881,
       "algorithm": "Heap Sort",
-      "comparisons": 14570.77,
-      "swaps": 7863.77
+      "comparisons": 14562.37,
+      "swaps": 7860.53
     },
     {
       "size": 881,
       "algorithm": "Merge Sort",
-      "comparisons": 7519.70,
+      "comparisons": 7523.80,
       "swaps": 17334.00
     },
     {
       "size": 881,
       "algorithm": "Quick Sort",
-      "comparisons": 9347.87,
-      "swaps": 5384.43
+      "comparisons": 9502.43,
+      "swaps": 5239.83
     },
     {
       "size": 881,
@@ -3213,31 +3213,31 @@
       "size": 891,
       "algorithm": "Bubble Sort",
       "comparisons": 396495.00,
-      "swaps": 197381.80
+      "swaps": 198172.87
     },
     {
       "size": 891,
       "algorithm": "Insertion Sort",
-      "comparisons": 198264.93,
-      "swaps": 197381.80
+      "comparisons": 199056.03,
+      "swaps": 198172.87
     },
     {
       "size": 891,
       "algorithm": "Heap Sort",
-      "comparisons": 14759.93,
-      "swaps": 7968.80
+      "comparisons": 14748.40,
+      "swaps": 7957.40
     },
     {
       "size": 891,
       "algorithm": "Merge Sort",
-      "comparisons": 7623.03,
+      "comparisons": 7622.30,
       "swaps": 17554.00
     },
     {
       "size": 891,
       "algorithm": "Quick Sort",
-      "comparisons": 9633.20,
-      "swaps": 5241.47
+      "comparisons": 9582.07,
+      "swaps": 5438.10
     },
     {
       "size": 891,
@@ -3249,31 +3249,31 @@
       "size": 901,
       "algorithm": "Bubble Sort",
       "comparisons": 405450.00,
-      "swaps": 201797.73
+      "swaps": 202917.13
     },
     {
       "size": 901,
       "algorithm": "Insertion Sort",
-      "comparisons": 202690.87,
-      "swaps": 201797.73
+      "comparisons": 203810.30,
+      "swaps": 202917.13
     },
     {
       "size": 901,
       "algorithm": "Heap Sort",
-      "comparisons": 14949.10,
-      "swaps": 8070.30
+      "comparisons": 14945.03,
+      "swaps": 8065.23
     },
     {
       "size": 901,
       "algorithm": "Merge Sort",
-      "comparisons": 7720.17,
+      "comparisons": 7721.13,
       "swaps": 17774.00
     },
     {
       "size": 901,
       "algorithm": "Quick Sort",
-      "comparisons": 9741.40,
-      "swaps": 5559.03
+      "comparisons": 9806.97,
+      "swaps": 5369.07
     },
     {
       "size": 901,
@@ -3285,31 +3285,31 @@
       "size": 911,
       "algorithm": "Bubble Sort",
       "comparisons": 414505.00,
-      "swaps": 206247.57
+      "swaps": 207483.67
     },
     {
       "size": 911,
       "algorithm": "Insertion Sort",
-      "comparisons": 207150.70,
-      "swaps": 206247.57
+      "comparisons": 208386.83,
+      "swaps": 207483.67
     },
     {
       "size": 911,
       "algorithm": "Heap Sort",
-      "comparisons": 15138.83,
-      "swaps": 8171.93
+      "comparisons": 15132.93,
+      "swaps": 8161.37
     },
     {
       "size": 911,
       "algorithm": "Merge Sort",
-      "comparisons": 7820.47,
+      "comparisons": 7818.57,
       "swaps": 17994.00
     },
     {
       "size": 911,
       "algorithm": "Quick Sort",
-      "comparisons": 9717.87,
-      "swaps": 5510.87
+      "comparisons": 9893.77,
+      "swaps": 5667.93
     },
     {
       "size": 911,
@@ -3321,31 +3321,31 @@
       "size": 921,
       "algorithm": "Bubble Sort",
       "comparisons": 423660.00,
-      "swaps": 210844.83
+      "swaps": 212106.20
     },
     {
       "size": 921,
       "algorithm": "Insertion Sort",
-      "comparisons": 211757.97,
-      "swaps": 210844.83
+      "comparisons": 213019.37,
+      "swaps": 212106.20
     },
     {
       "size": 921,
       "algorithm": "Heap Sort",
-      "comparisons": 15336.00,
-      "swaps": 8275.47
+      "comparisons": 15326.80,
+      "swaps": 8267.30
     },
     {
       "size": 921,
       "algorithm": "Merge Sort",
-      "comparisons": 7918.23,
+      "comparisons": 7923.20,
       "swaps": 18214.00
     },
     {
       "size": 921,
       "algorithm": "Quick Sort",
-      "comparisons": 9906.73,
-      "swaps": 5459.13
+      "comparisons": 9961.60,
+      "swaps": 5571.50
     },
     {
       "size": 921,
@@ -3357,31 +3357,31 @@
       "size": 931,
       "algorithm": "Bubble Sort",
       "comparisons": 432915.00,
-      "swaps": 215510.87
+      "swaps": 216706.23
     },
     {
       "size": 931,
       "algorithm": "Insertion Sort",
-      "comparisons": 216433.93,
-      "swaps": 215510.87
+      "comparisons": 217629.40,
+      "swaps": 216706.23
     },
     {
       "size": 931,
       "algorithm": "Heap Sort",
-      "comparisons": 15533.77,
-      "swaps": 8381.33
+      "comparisons": 15518.53,
+      "swaps": 8370.77
     },
     {
       "size": 931,
       "algorithm": "Merge Sort",
-      "comparisons": 8023.20,
+      "comparisons": 8023.03,
       "swaps": 18434.00
     },
     {
       "size": 931,
       "algorithm": "Quick Sort",
-      "comparisons": 10024.47,
-      "swaps": 5689.87
+      "comparisons": 9965.37,
+      "swaps": 5668.73
     },
     {
       "size": 931,
@@ -3393,31 +3393,31 @@
       "size": 941,
       "algorithm": "Bubble Sort",
       "comparisons": 442270.00,
-      "swaps": 220141.23
+      "swaps": 221388.93
     },
     {
       "size": 941,
       "algorithm": "Insertion Sort",
-      "comparisons": 221074.27,
-      "swaps": 220141.23
+      "comparisons": 222322.10,
+      "swaps": 221388.93
     },
     {
       "size": 941,
       "algorithm": "Heap Sort",
-      "comparisons": 15714.97,
-      "swaps": 8480.90
+      "comparisons": 15710.30,
+      "swaps": 8471.20
     },
     {
       "size": 941,
       "algorithm": "Merge Sort",
-      "comparisons": 8121.47,
+      "comparisons": 8119.37,
       "swaps": 18654.00
     },
     {
       "size": 941,
       "algorithm": "Quick Sort",
-      "comparisons": 10245.00,
-      "swaps": 5737.07
+      "comparisons": 10234.40,
+      "swaps": 5951.07
     },
     {
       "size": 941,
@@ -3429,31 +3429,31 @@
       "size": 951,
       "algorithm": "Bubble Sort",
       "comparisons": 451725.00,
-      "swaps": 225199.90
+      "swaps": 226214.03
     },
     {
       "size": 951,
       "algorithm": "Insertion Sort",
-      "comparisons": 226142.93,
-      "swaps": 225199.90
+      "comparisons": 227157.20,
+      "swaps": 226214.03
     },
     {
       "size": 951,
       "algorithm": "Heap Sort",
-      "comparisons": 15912.70,
-      "swaps": 8585.30
+      "comparisons": 15902.07,
+      "swaps": 8574.10
     },
     {
       "size": 951,
       "algorithm": "Merge Sort",
-      "comparisons": 8218.40,
+      "comparisons": 8217.80,
       "swaps": 18874.00
     },
     {
       "size": 951,
       "algorithm": "Quick Sort",
-      "comparisons": 10377.70,
-      "swaps": 5857.03
+      "comparisons": 10188.90,
+      "swaps": 5778.37
     },
     {
       "size": 951,
@@ -3465,31 +3465,31 @@
       "size": 961,
       "algorithm": "Bubble Sort",
       "comparisons": 461280.00,
-      "swaps": 230087.73
+      "swaps": 231007.67
     },
     {
       "size": 961,
       "algorithm": "Insertion Sort",
-      "comparisons": 231040.73,
-      "swaps": 230087.73
+      "comparisons": 231960.80,
+      "swaps": 231007.67
     },
     {
       "size": 961,
       "algorithm": "Heap Sort",
-      "comparisons": 16104.17,
-      "swaps": 8686.63
+      "comparisons": 16093.63,
+      "swaps": 8674.80
     },
     {
       "size": 961,
       "algorithm": "Merge Sort",
-      "comparisons": 8321.03,
+      "comparisons": 8317.47,
       "swaps": 19094.00
     },
     {
       "size": 961,
       "algorithm": "Quick Sort",
-      "comparisons": 10473.70,
-      "swaps": 5933.03
+      "comparisons": 10409.40,
+      "swaps": 5777.93
     },
     {
       "size": 961,
@@ -3501,31 +3501,31 @@
       "size": 971,
       "algorithm": "Bubble Sort",
       "comparisons": 470935.00,
-      "swaps": 235135.00
+      "swaps": 235965.50
     },
     {
       "size": 971,
       "algorithm": "Insertion Sort",
-      "comparisons": 236259.73,
-      "swaps": 235296.53
+      "comparisons": 236928.63,
+      "swaps": 235965.50
     },
     {
       "size": 971,
       "algorithm": "Heap Sort",
-      "comparisons": 16293.73,
-      "swaps": 8785.97
+      "comparisons": 16288.00,
+      "swaps": 8777.67
     },
     {
       "size": 971,
       "algorithm": "Merge Sort",
-      "comparisons": 8413.50,
+      "comparisons": 8418.20,
       "swaps": 19314.00
     },
     {
       "size": 971,
       "algorithm": "Quick Sort",
-      "comparisons": 10456.13,
-      "swaps": 5804.97
+      "comparisons": 10651.90,
+      "swaps": 5911.77
     },
     {
       "size": 971,
@@ -3537,31 +3537,31 @@
       "size": 981,
       "algorithm": "Bubble Sort",
       "comparisons": 480690.00,
-      "swaps": 240157.10
+      "swaps": 240928.90
     },
     {
       "size": 981,
       "algorithm": "Insertion Sort",
-      "comparisons": 241130.30,
-      "swaps": 240157.10
+      "comparisons": 241902.03,
+      "swaps": 240928.90
     },
     {
       "size": 981,
       "algorithm": "Heap Sort",
-      "comparisons": 16490.67,
-      "swaps": 8893.10
+      "comparisons": 16478.10,
+      "swaps": 8879.87
     },
     {
       "size": 981,
       "algorithm": "Merge Sort",
-      "comparisons": 8516.17,
+      "comparisons": 8516.97,
       "swaps": 19534.00
     },
     {
       "size": 981,
       "algorithm": "Quick Sort",
-      "comparisons": 10794.77,
-      "swaps": 6041.33
+      "comparisons": 10613.83,
+      "swaps": 5905.17
     },
     {
       "size": 981,
@@ -3573,31 +3573,31 @@
       "size": 991,
       "algorithm": "Bubble Sort",
       "comparisons": 490545.00,
-      "swaps": 245013.87
+      "swaps": 245817.80
     },
     {
       "size": 991,
       "algorithm": "Insertion Sort",
-      "comparisons": 245997.07,
-      "swaps": 245013.87
+      "comparisons": 246800.93,
+      "swaps": 245817.80
     },
     {
       "size": 991,
       "algorithm": "Heap Sort",
-      "comparisons": 16681.73,
-      "swaps": 8990.90
+      "comparisons": 16678.70,
+      "swaps": 8984.43
     },
     {
       "size": 991,
       "algorithm": "Merge Sort",
-      "comparisons": 8620.30,
+      "comparisons": 8620.20,
       "swaps": 19754.00
     },
     {
       "size": 991,
       "algorithm": "Quick Sort",
-      "comparisons": 11062.67,
-      "swaps": 6083.63
+      "comparisons": 10954.70,
+      "swaps": 6064.37
     },
     {
       "size": 991,
