@@ -1,0 +1,27 @@
+# Build files
+*.o
+*.out
+*.exe
+
+# Results
+results/
+
+# Node modules
+node_modules/
+visualization/node_modules/
+visualization/dist/
+visualization/public/results/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
