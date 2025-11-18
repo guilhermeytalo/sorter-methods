@@ -53,7 +53,6 @@ Abra seu navegador em `http://localhost:5173` e aproveite os gráficos interativ
 ## 📁 Estrutura do Projeto
 
 ```
-/eda
 ├── src/                    # Código-fonte C
 │   ├── sorting.h          # Cabeçalhos dos algoritmos
 │   ├── sorting.c          # Todas as 6 implementações
