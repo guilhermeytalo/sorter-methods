@@ -1,4 +1,5 @@
 # Build files
+build/
 *.o
 *.out
 *.exe
@@ -8,6 +9,11 @@ node_modules/
 visualization/node_modules/
 visualization/dist/
 visualization/public/results/
+
+# Allow results/data.json to be committed for deployment
+# (ignore everything in results/ except data.json)
+results/*
+!results/data.json
 
 # OS files
 .DS_Store
