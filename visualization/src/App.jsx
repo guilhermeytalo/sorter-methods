@@ -190,10 +190,6 @@ function App() {
         </div>
       </div>
 
-      <footer>
-        <p>University Sorting Algorithm Analysis Project</p>
-        <p className="tech-stack">Built with C, React, and Recharts</p>
-      </footer>
     </div>
   )
 }
