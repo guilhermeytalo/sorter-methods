@@ -1,0 +1,15 @@
+[build]
+  # Base directory onde rodar os comandos
+  base = "visualization"
+
+  # Comando para buildar
+  command = "npm run build"
+
+  # Pasta com os arquivos buildados para publicar
+  publish = "dist"
+
+# Redirect rules para SPA
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
